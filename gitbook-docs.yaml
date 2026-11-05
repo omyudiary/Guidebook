@@ -6,6 +6,7 @@ site:
       key: guide
       title: 가이드북
       path: guide
+      default: true
       children:
         - type: space
           key: guide-ko
