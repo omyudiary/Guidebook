@@ -7,13 +7,13 @@
 
 ### STEP 01
 
-<figure><img src="../.gitbook/assets/sn-note-palette-01.png" alt="노트팔레트 사용방법 STEP 01"><figcaption></figcaption></figure>
+![노트팔레트 사용방법 STEP 01](../images/sn-note-palette-01.png)
 
 **목록 아이콘**을 누르고 원하는 페이지의 ⋮ 를 누른 후 **복사**를 눌러주세요.
 
 ### STEP 02
 
-<figure><img src="../.gitbook/assets/sn-note-palette-02.png" alt="노트팔레트 사용방법 STEP 02"><figcaption></figcaption></figure>
+![노트팔레트 사용방법 STEP 02](../images/sn-note-palette-02.png)
 
 **바인더로 이동**한 후 **붙여넣기**를 눌러주세요.
 

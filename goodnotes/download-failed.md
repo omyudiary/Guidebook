@@ -7,6 +7,6 @@
 
 ### STEP 01
 
-<figure><img src="../.gitbook/assets/gn-download-failed-01.png" alt="다운로드 불러오기 실패 STEP 01"><figcaption></figcaption></figure>
+![다운로드 불러오기 실패 STEP 01](../images/gn-download-failed-01.png)
 
 아이패드는 꼭 **사파리에서 다운로드**해 주세요!

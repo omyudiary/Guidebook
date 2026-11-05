@@ -4,24 +4,24 @@
 
 ### STEP 01
 
-<figure><img src="../.gitbook/assets/gn-add-page-01.png" alt="페이지 추가하는 법 STEP 01"><figcaption></figcaption></figure>
+![페이지 추가하는 법 STEP 01](../images/gn-add-page-01.png)
 
 상단의 **점 3개 버튼**을 누른 후 **페이지 복사**를 눌러주세요.
 
 ### STEP 02
 
-<figure><img src="../.gitbook/assets/gn-add-page-02.png" alt="페이지 추가하는 법 STEP 02"><figcaption></figcaption></figure>
+![페이지 추가하는 법 STEP 02](../images/gn-add-page-02.png)
 
 상단의 플러스 아이콘을 누른 후 **페이지 붙여넣기**를 눌러주세요.
 
 ## 두 번째 방법
 
-<figure><img src="../.gitbook/assets/gn-add-page-03.png" alt="페이지 추가하는 법 "><figcaption></figcaption></figure>
+![페이지 추가하는 법 ](../images/gn-add-page-03.png)
 
 추가하고 싶은 페이지의 화살표를 누른 후 **복제**를 눌러주세요.
 
 ## 세 번째 방법
 
-<figure><img src="../.gitbook/assets/gn-add-page-04.png" alt="페이지 추가하는 법 "><figcaption></figcaption></figure>
+![페이지 추가하는 법 ](../images/gn-add-page-04.png)
 
 **앞 페이지 추가** 또는 **뒷 페이지 추가**를 누른 후 **현재 템플릿**을 눌러도 추가됩니다.

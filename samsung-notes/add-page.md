@@ -2,13 +2,13 @@
 
 ### STEP 01
 
-<figure><img src="../.gitbook/assets/sn-add-page-01.png" alt="페이지 추가하는 법 STEP 01"><figcaption></figcaption></figure>
+![페이지 추가하는 법 STEP 01](../images/sn-add-page-01.png)
 
 목록 아이콘을 누르고 추가하고 싶은 페이지의 ⋮ 을 누른 후 **복사**를 누릅니다.
 
 ### STEP 02
 
-<figure><img src="../.gitbook/assets/sn-add-page-02.png" alt="페이지 추가하는 법 STEP 02"><figcaption></figcaption></figure>
+![페이지 추가하는 법 STEP 02](../images/sn-add-page-02.png)
 
 **붙여넣기**를 눌러주세요.
 

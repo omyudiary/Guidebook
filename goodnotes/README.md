@@ -2,11 +2,4 @@
 
 굿노트 사용자를 위한 가이드입니다. 궁금한 항목을 선택해 주세요.
 
-1. [다운로드 방법](download.md)
-2. [하이퍼링크 사용방법](hyperlink.md)
-3. [스티커북 다운로드 방법](sticker-book-download.md)
-4. [스티커 사용방법](sticker.md)
-5. [표지 변경하는 법](cover.md)
-6. [페이지 추가하는 법](add-page.md)
-7. [노트팔레트 사용방법](note-palette.md)
-8. [다운로드 불러오기 실패](download-failed.md)
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>다운로드 방법</strong></td><td>구매한 노트 파일을 앱으로 불러와요</td><td><a href="../images/gn-download-01.png">gn-download-01.png</a></td><td><a href="download.md">download.md</a></td></tr><tr><td><strong>하이퍼링크 사용방법</strong></td><td>목차·탭을 눌러 원하는 페이지로 이동해요</td><td><a href="../images/gn-hyperlink-01.png">gn-hyperlink-01.png</a></td><td><a href="hyperlink.md">hyperlink.md</a></td></tr><tr><td><strong>스티커북 다운로드 방법</strong></td><td>스티커북 파일을 앱으로 불러와요</td><td><a href="../images/gn-sticker-book-download-01.png">gn-sticker-book-download-01.png</a></td><td><a href="sticker-book-download.md">sticker-book-download.md</a></td></tr><tr><td><strong>스티커 사용방법</strong></td><td>컷팅 스티커와 PNG 스티커 쓰는 법</td><td><a href="../images/gn-sticker-01.png">gn-sticker-01.png</a></td><td><a href="sticker.md">sticker.md</a></td></tr><tr><td><strong>표지 변경하는 법</strong></td><td>다운받은 표지로 바꿔요</td><td><a href="../images/gn-cover-01.png">gn-cover-01.png</a></td><td><a href="cover.md">cover.md</a></td></tr><tr><td><strong>페이지 추가하는 법</strong></td><td>필요한 속지를 복사해서 늘려요</td><td><a href="../images/gn-add-page-01.png">gn-add-page-01.png</a></td><td><a href="add-page.md">add-page.md</a></td></tr><tr><td><strong>노트팔레트 사용방법</strong></td><td>원하는 컬러 노트를 바인더에 추가해요</td><td><a href="../images/gn-note-palette-01.png">gn-note-palette-01.png</a></td><td><a href="note-palette.md">note-palette.md</a></td></tr><tr><td><strong>다운로드 불러오기 실패</strong></td><td>불러오기 실패 알림이 뜰 때 확인해요</td><td><a href="../images/gn-download-failed-01.png">gn-download-failed-01.png</a></td><td><a href="download-failed.md">download-failed.md</a></td></tr></tbody></table>

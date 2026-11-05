@@ -6,13 +6,13 @@
 
 ### STEP 01
 
-<figure><img src="../.gitbook/assets/nb-hyperlink-01.png" alt="하이퍼링크 사용방법 STEP 01"><figcaption></figcaption></figure>
+![하이퍼링크 사용방법 STEP 01](../images/nb-hyperlink-01.png)
 
 하이퍼링크 **활성화 상태**입니다. 다른 페이지로 이동할 때 사용하세요.
 
 ### ⭐ TIP
 
-<figure><img src="../.gitbook/assets/nb-hyperlink-02.png" alt="하이퍼링크 사용방법 ⭐ TIP"><figcaption></figcaption></figure>
+![하이퍼링크 사용방법 ⭐ TIP](../images/nb-hyperlink-02.png)
 
 점 3개를 누르고 [보기]를 누르면 페이지 방향을 설정할 수 있습니다.
 

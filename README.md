@@ -10,13 +10,7 @@
 
 ## 사용하시는 앱을 선택해 주세요
 
-| 필기 앱 |
-| --- |
-| [굿노트 (Goodnotes)](goodnotes/README.md) |
-| [노타빌리티 (Notability)](notability/README.md) |
-| [노트쉘프 (Noteshelf)](noteshelf/README.md) |
-| [삼성노트 (Samsung Notes)](samsung-notes/README.md) |
-| [소도 (Xodo)](xodo/README.md) |
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>굿노트 (Goodnotes)</strong></td><td>아이패드</td><td><a href="goodnotes/README.md">goodnotes/README.md</a></td></tr><tr><td><strong>노타빌리티 (Notability)</strong></td><td>아이패드</td><td><a href="notability/README.md">notability/README.md</a></td></tr><tr><td><strong>노트쉘프 (Noteshelf)</strong></td><td>아이패드 · 갤럭시탭</td><td><a href="noteshelf/README.md">noteshelf/README.md</a></td></tr><tr><td><strong>삼성노트 (Samsung Notes)</strong></td><td>갤럭시탭</td><td><a href="samsung-notes/README.md">samsung-notes/README.md</a></td></tr><tr><td><strong>소도 (Xodo)</strong></td><td>갤럭시탭 · 안드로이드</td><td><a href="xodo/README.md">xodo/README.md</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 아이패드에서 굿노트·노타빌리티를 쓰신다면 파일은 꼭 **사파리(Safari)** 에서 다운로드해 주세요.

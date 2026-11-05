@@ -2,6 +2,6 @@
 
 ### STEP 01
 
-<figure><img src="../.gitbook/assets/nb-add-page-01.png" alt="페이지 추가하는 법 STEP 01"><figcaption></figcaption></figure>
+![페이지 추가하는 법 STEP 01](../images/nb-add-page-01.png)
 
 우측 상단의 책 모양 아이콘을 누르고 페이지를 **복사 + 붙이기**합니다.
