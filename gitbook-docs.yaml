@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: 오뮤다이어리 가이드북
+  structure:
+    - type: section
+      key: guide
+      title: 가이드북
+      path: guide
+      children:
+        - type: space
+          key: guide-ko
+          title: 한국어
+          path: ko
+          default: true
+          content:
+            directory: ./
+            language: ko
