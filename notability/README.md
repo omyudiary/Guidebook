@@ -1,6 +1,6 @@
 ---
+description: 노타빌리티에서 오뮤다이어리 노트를 사용하는 방법이에요.
 icon: book
-description: "노타빌리티에서 오뮤다이어리 노트를 사용하는 방법이에요."
 ---
 
 # 노타빌리티 (Notability)
@@ -17,16 +17,15 @@ description: "노타빌리티에서 오뮤다이어리 노트를 사용하는 �
 
 라이브러리 화면에서 **가져오기**를 누르고 압축을 푼 PDF를 선택해 주세요.
 
-<figure><img src="../images/notability-import-01.png" alt="라이브러리의 가져오기"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/notability-import-01.png" alt="라이브러리의 가져오기"><figcaption></figcaption></figure>
 {% endstep %}
+
 {% step %}
 **또는 파일 앱에서 바로 보내기**
 
 파일 앱에서 PDF를 길게 누르고 **공유 → Notability → 새로운 노트로 가져오기**를 선택해도 돼요.
 
-<figure><img src="../images/notability-import-02.png" alt="공유 메뉴의 Notability"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/notability-import-02.png" alt="공유 메뉴의 Notability"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

@@ -1,6 +1,6 @@
 ---
+description: 목차·탭을 눌러 원하는 페이지로 이동해요
 icon: link
-description: "목차·탭을 눌러 원하는 페이지로 이동해요"
 ---
 
 # 하이퍼링크 사용법
@@ -13,24 +13,23 @@ description: "목차·탭을 눌러 원하는 페이지로 이동해요"
 
 오른쪽 위 **연필 아이콘(✏️)** 을 눌러 **읽기 전용 모드**로 바꿔주세요. 도구 막대가 사라지면 켜진 상태예요.
 
-<figure><img src="../images/goodnotes-hyperlink-01.png" alt="읽기 전용 모드 전환 버튼"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/goodnotes-hyperlink-01.png" alt="읽기 전용 모드 전환 버튼"><figcaption></figcaption></figure>
 {% endstep %}
+
 {% step %}
 **링크 눌러 이동**
 
 월간·주간 탭이나 목차의 날짜를 누르면 해당 페이지로 바로 이동해요.
 
-<figure><img src="../images/goodnotes-hyperlink-02.png" alt="탭을 눌러 페이지 이동"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/goodnotes-hyperlink-02.png" alt="탭을 눌러 페이지 이동"><figcaption></figcaption></figure>
 {% endstep %}
+
 {% step %}
 **다시 필기 모드로**
 
 이동한 뒤 **연필 아이콘**을 다시 눌러 필기 모드로 돌아와 기록해 주세요.
 
-<figure><img src="../images/goodnotes-hyperlink-03.png" alt="필기 모드 전환"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/goodnotes-hyperlink-03.png" alt="필기 모드 전환"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

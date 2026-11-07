@@ -1,6 +1,6 @@
 ---
+description: 목차·탭을 눌러 원하는 페이지로 이동해요
 icon: link
-description: "목차·탭을 눌러 원하는 페이지로 이동해요"
 ---
 
 # 하이퍼링크 사용법
@@ -11,16 +11,15 @@ description: "목차·탭을 눌러 원하는 페이지로 이동해요"
 
 어떤 도구를 선택한 상태든 탭이나 목차를 **짧게 탭**하면 해당 페이지로 이동해요.
 
-<figure><img src="../images/notability-hyperlink-01.png" alt="탭을 눌러 페이지 이동"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/notability-hyperlink-01.png" alt="탭을 눌러 페이지 이동"><figcaption></figcaption></figure>
 {% endstep %}
+
 {% step %}
 **페이지 넘김 방향 설정**
 
 오른쪽 위 **⋯ → 보기(스크롤 방향)** 에서 **가로**를 선택하면 한 장씩 넘겨볼 수 있어요.
 
-<figure><img src="../images/notability-hyperlink-02.png" alt="스크롤 방향 설정"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/notability-hyperlink-02.png" alt="스크롤 방향 설정"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

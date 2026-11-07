@@ -1,6 +1,6 @@
 ---
+description: 플랙슬에서 오뮤다이어리 노트를 사용하는 방법이에요.
 icon: file-pdf
-description: "플랙슬에서 오뮤다이어리 노트를 사용하는 방법이에요."
 ---
 
 # 플랙슬 (Flexcil)
@@ -17,16 +17,15 @@ description: "플랙슬에서 오뮤다이어리 노트를 사용하는 방법�
 
 플랙슬 문서함에서 **+ (또는 가져오기)** 를 누르고 압축을 푼 PDF를 선택해 주세요.
 
-<figure><img src="../images/flexcil-import-01.png" alt="플랙슬 가져오기"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/flexcil-import-01.png" alt="플랙슬 가져오기"><figcaption></figcaption></figure>
 {% endstep %}
+
 {% step %}
 **또는 다른 앱에서 보내기**
 
 파일 앱·내 파일에서 PDF를 선택하고 **공유·연결 앱 → Flexcil**을 선택해도 돼요.
 
-<figure><img src="../images/flexcil-import-02.png" alt="공유 메뉴의 Flexcil"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/flexcil-import-02.png" alt="공유 메뉴의 Flexcil"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

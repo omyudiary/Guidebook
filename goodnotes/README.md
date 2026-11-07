@@ -1,6 +1,6 @@
 ---
+description: 굿노트에서 오뮤다이어리 노트를 사용하는 방법이에요.
 icon: pen-nib
-description: "굿노트에서 오뮤다이어리 노트를 사용하는 방법이에요."
 ---
 
 # 굿노트 (Goodnotes)
@@ -17,16 +17,15 @@ description: "굿노트에서 오뮤다이어리 노트를 사용하는 방법�
 
 문서 화면에서 **+ 새로 만들기 → 가져오기**를 누르고, 파일 앱에서 압축을 푼 PDF를 선택해 주세요.
 
-<figure><img src="../images/goodnotes-import-01.png" alt="굿노트 새로 만들기 → 가져오기"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/goodnotes-import-01.png" alt="굿노트 새로 만들기 → 가져오기"><figcaption></figcaption></figure>
 {% endstep %}
+
 {% step %}
 **또는 파일 앱에서 바로 보내기**
 
 파일 앱에서 PDF를 길게 누르고 **공유 → Goodnotes → 새로운 문서로 불러오기**를 선택해도 돼요.
 
-<figure><img src="../images/goodnotes-import-02.png" alt="공유 메뉴의 새로운 문서로 불러오기"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/goodnotes-import-02.png" alt="공유 메뉴의 새로운 문서로 불러오기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

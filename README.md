@@ -1,12 +1,11 @@
 ---
+description: 오뮤다이어리 디지털 노트를 처음 사용하시는 분들을 위한 공식 가이드북이에요.
 icon: hand-wave
-description: "오뮤다이어리 디지털 노트를 처음 사용하시는 분들을 위한 공식 가이드북이에요."
 ---
 
 # Welcome to omyudiary
 
-오뮤다이어리를 선택해 주셔서 감사합니다.
-
+오뮤다이어리를 선택해 주셔서 감사합니다.\
 이 가이드북에는 **파일 다운로드부터 필기 앱별 사용법, 폰트 설치**까지 디지털 노트를 바로 쓰기 위해 필요한 내용을 모두 담았어요. 오뮤다이어리의 **모든 디지털 상품에 공통으로 적용**되는 가이드예요.
 
 {% hint style="info" %}
@@ -19,37 +18,40 @@ description: "오뮤다이어리 디지털 노트를 처음 사용하시는 분�
 
 ## 바로 시작하기
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>다운로드 방법</strong></td><td>PDF와 스티커북을 기기에 저장해요</td><td><a href="images/cover-download.png">cover-download.png</a></td><td><a href="download/pdf.md">download/pdf.md</a></td></tr><tr><td><strong>굿노트</strong></td><td>Goodnotes · 아이패드</td><td><a href="images/cover-goodnotes.png">cover-goodnotes.png</a></td><td><a href="goodnotes/README.md">goodnotes/README.md</a></td></tr><tr><td><strong>삼성노트</strong></td><td>Samsung Notes · 갤럭시탭</td><td><a href="images/cover-samsung-notes.png">cover-samsung-notes.png</a></td><td><a href="samsung-notes/README.md">samsung-notes/README.md</a></td></tr><tr><td><strong>노타빌리티</strong></td><td>Notability · 아이패드</td><td><a href="images/cover-notability.png">cover-notability.png</a></td><td><a href="notability/README.md">notability/README.md</a></td></tr><tr><td><strong>노트쉘프</strong></td><td>Noteshelf · 아이패드 · 갤럭시탭</td><td><a href="images/cover-noteshelf.png">cover-noteshelf.png</a></td><td><a href="noteshelf/README.md">noteshelf/README.md</a></td></tr><tr><td><strong>플랙슬</strong></td><td>Flexcil · 아이패드 · 갤럭시탭</td><td><a href="images/cover-flexcil.png">cover-flexcil.png</a></td><td><a href="flexcil/README.md">flexcil/README.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>다운로드 방법</strong></td><td>PDF와 스티커북을 기기에 저장해요</td><td><a href=".gitbook/assets/cover-download.png">cover-download.png</a></td><td><a href="download/pdf.md">pdf.md</a></td></tr><tr><td><strong>굿노트</strong></td><td>Goodnotes · 아이패드</td><td><a href=".gitbook/assets/cover-goodnotes.png">cover-goodnotes.png</a></td><td><a href="goodnotes/">goodnotes</a></td></tr><tr><td><strong>삼성노트</strong></td><td>Samsung Notes · 갤럭시탭</td><td><a href=".gitbook/assets/cover-samsung-notes.png">cover-samsung-notes.png</a></td><td><a href="samsung-notes/">samsung-notes</a></td></tr><tr><td><strong>노타빌리티</strong></td><td>Notability · 아이패드</td><td><a href=".gitbook/assets/cover-notability.png">cover-notability.png</a></td><td><a href="notability/">notability</a></td></tr><tr><td><strong>노트쉘프</strong></td><td>Noteshelf · 아이패드 · 갤럭시탭</td><td><a href=".gitbook/assets/cover-noteshelf.png">cover-noteshelf.png</a></td><td><a href="noteshelf/">noteshelf</a></td></tr><tr><td><strong>플랙슬</strong></td><td>Flexcil · 아이패드 · 갤럭시탭</td><td><a href=".gitbook/assets/cover-flexcil.png">cover-flexcil.png</a></td><td><a href="flexcil/">flexcil</a></td></tr></tbody></table>
 
 ## 어떤 앱을 써야 할까요?
 
-오뮤다이어리 노트는 하이퍼링크 PDF를 지원하는 필기 앱이라면 어디서든 쓸 수 있어요. 사용하시는 기기에서 설치할 수 있는 앱을 확인해 주세요.
+오뮤다이어리 노트는 하이퍼링크 PDF를 지원하는 필기 앱이라면 어디서든 쓸 수 있어요.\
+사용하시는 기기에서 설치할 수 있는 앱을 확인해 주세요.
 
-| 필기 앱 | 아이패드 | 갤럭시탭 | 가이드 |
-| --- | :---: | :---: | --- |
-| **굿노트** · Goodnotes | ✓ | ✓ | [바로가기](goodnotes/README.md) |
-| **노타빌리티** · Notability | ✓ | – | [바로가기](notability/README.md) |
-| **삼성노트** · Samsung Notes | – | ✓ | [바로가기](samsung-notes/README.md) |
-| **노트쉘프** · Noteshelf | ✓ | ✓ | [바로가기](noteshelf/README.md) |
-| **플랙슬** · Flexcil | ✓ | ✓ | [바로가기](flexcil/README.md) |
-| **킬로노트** · Kilonotes | ✓ | ✓ | – |
-| **콜라노트** · CollaNote | ✓ | – | – |
-| **노트플러스** · Note+ | ✓ | – | – |
-| **노트인** · Notein | – | ✓ | – |
-| **노트풀** · Noteful | ✓ | – | – |
+| 필기 앱                     | 아이패드 | 갤럭시탭 | 가이드                    |
+| ------------------------ | :--: | :--: | ---------------------- |
+| **굿노트** · Goodnotes      |   ✓  |   ✓  | [바로가기](goodnotes/)     |
+| **노타빌리티** · Notability   |   ✓  |   –  | [바로가기](notability/)    |
+| **삼성노트** · Samsung Notes |   –  |   ✓  | [바로가기](samsung-notes/) |
+| **노트쉘프** · Noteshelf     |   ✓  |   ✓  | [바로가기](noteshelf/)     |
+| **플랙슬** · Flexcil        |   ✓  |   ✓  | [바로가기](flexcil/)       |
+| **킬로노트** · Kilonotes     |   ✓  |   ✓  | –                      |
+| **콜라노트** · CollaNote     |   ✓  |   –  | –                      |
+| **노트플러스** · Note+        |   ✓  |   –  | –                      |
+| **노트인** · Notein         |   –  |   ✓  | –                      |
+| **노트풀** · Noteful        |   ✓  |   –  | –                      |
 
 {% hint style="info" %}
-가이드가 없는 앱도 **불러오기 → 링크 이동 → 페이지 복사** 흐름은 거의 같아요. 아이패드 앱은 [굿노트](goodnotes/README.md), 갤럭시탭 앱은 [삼성노트](samsung-notes/README.md) 가이드를 참고해 주세요.
+가이드가 없는 앱도 **불러오기 → 링크 이동 → 페이지 복사** 흐름은 거의 같아요.
+
+아이패드 앱은 [굿노트](goodnotes/), 갤럭시탭 앱은 [삼성노트](samsung-notes/) 가이드를 참고해 주세요.
 {% endhint %}
 
 ## 문의하기
 
 사용 중 궁금한 점이 있으시면 아래 채널로 편하게 연락 주세요. 새 상품 소식과 활용 팁도 함께 전해드려요.
 
-| 채널 | 바로가기 |
-| --- | --- |
-| 공식 사이트 | [omyudiary.com](https://omyudiary.com/) |
+| 채널         | 바로가기                                                                        |
+| ---------- | --------------------------------------------------------------------------- |
+| 공식 사이트     | [omyudiary.com](https://omyudiary.com/)                                     |
 | 네이버 스마트스토어 | [smartstore.naver.com/omyu\_diary](https://smartstore.naver.com/omyu_diary) |
-| 인스타그램 | [@omyu\_diary](https://www.instagram.com/omyu_diary/) |
-| 유튜브 | [@omyu\_diary](https://www.youtube.com/@omyu_diary) |
-| 블로그 | [blog.naver.com/omyu\_diary](https://blog.naver.com/omyu_diary) |
+| 인스타그램      | [@omyu\_diary](https://www.instagram.com/omyu_diary/)                       |
+| 유튜브        | [@omyu\_diary](https://www.youtube.com/@omyu_diary)                         |
+| 블로그        | [blog.naver.com/omyu\_diary](https://blog.naver.com/omyu_diary)             |
