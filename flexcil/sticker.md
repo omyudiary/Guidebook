@@ -9,19 +9,19 @@ description: "컷팅 스티커와 PNG 스티커를 붙여요"
 
 {% stepper %}
 {% step %}
-### 스티커 복사
+**스티커 복사**
 
 **올가미 도구**로 스티커를 선택하고 **복사**를 눌러주세요.
 
-![올가미로 스티커 복사](../images/flexcil-sticker-01.png)
+<figure><img src="../images/flexcil-sticker-01.png" alt="올가미로 스티커 복사"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 노트에 붙여넣기
+**노트에 붙여넣기**
 
 노트의 빈 곳을 길게 누르고 **붙여넣기**를 눌러주세요.
 
-![붙여넣기](../images/flexcil-sticker-02.png)
+<figure><img src="../images/flexcil-sticker-02.png" alt="붙여넣기"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}
@@ -32,27 +32,27 @@ description: "컷팅 스티커와 PNG 스티커를 붙여요"
 
 {% stepper %}
 {% step %}
-### 이미지 불러오기
+**이미지 불러오기**
 
 **이미지 삽입**으로 PNG 스티커를 노트에 불러와 주세요.
 
-![이미지 삽입](../images/flexcil-sticker-03.png)
+<figure><img src="../images/flexcil-sticker-03.png" alt="이미지 삽입"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 스티커로 저장
+**스티커로 저장**
 
 이미지를 선택하고 메뉴에서 **스티커로 저장**을 눌러주세요.
 
-![스티커로 저장](../images/flexcil-sticker-04.png)
+<figure><img src="../images/flexcil-sticker-04.png" alt="스티커로 저장"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 스티커 붙이기
+**스티커 붙이기**
 
 도구 막대의 **스티커**에서 저장한 스티커를 눌러 붙여 주세요.
 
-![저장한 스티커 붙이기](../images/flexcil-sticker-05.png)
+<figure><img src="../images/flexcil-sticker-05.png" alt="저장한 스티커 붙이기"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}

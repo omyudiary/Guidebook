@@ -7,7 +7,7 @@ description: "불러오기 실패 알림이 뜰 때 확인해요"
 
 굿노트에서 **"불러오기 실패"** 알림이 뜬다면 대부분 아래 원인 중 하나예요. 위에서부터 차례로 확인해 주세요.
 
-![불러오기 실패 알림 화면](../images/goodnotes-import-failed-01.png)
+<figure><img src="../images/goodnotes-import-failed-01.png" alt="불러오기 실패 알림 화면"><figcaption></figcaption></figure>
 
 ## 체크리스트
 

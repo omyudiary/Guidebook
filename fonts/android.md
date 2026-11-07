@@ -17,57 +17,57 @@ description: "오뮤다이어리 폰트를 갤럭시폰·갤럭시탭에 설치�
 
 {% stepper %}
 {% step %}
-### 폰트 파일 준비
+**폰트 파일 준비**
 
 다운로드한 ZIP 파일을 **내 파일 → 다운로드**에서 압축 풀어 주세요. **TTF 또는 OTF 파일**이 보이면 준비 완료예요.
 
-![내 파일의 폰트 파일](../images/font-android-01.png)
+<figure><img src="../images/font-android-01.png" alt="내 파일의 폰트 파일"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### SamFonts 설치
+**SamFonts 설치**
 
 [SamFonts 릴리스 페이지](https://github.com/fahadalijaved/SamFonts/releases)에서 최신 버전의 **app 으로 시작하는 APK 파일**을 받아 설치해 주세요.
 
 설치 중 "출처를 알 수 없는 앱" 같은 경고가 나오면 **설정에서 허용** 후 설치를 마무리해 주세요.
 
-![SamFonts APK 설치 화면](../images/font-android-02.png)
+<figure><img src="../images/font-android-02.png" alt="SamFonts APK 설치 화면"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 권한 허용
+**권한 허용**
 
 SamFonts를 처음 실행하면 **KNOX 동의** 창이 나와요. 동의해 주세요.
 
 제목 아래 세 가지 방식(root · uid 1000 · normal) 중 **normal**을 선택하고, 접근 요청 창에서 **바로 적용**을 눌러주세요.
 
-![normal 선택과 바로 적용](../images/font-android-03.png)
+<figure><img src="../images/font-android-03.png" alt="normal 선택과 바로 적용"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 폰트 불러오기
+**폰트 불러오기**
 
 SamFonts에서 1단계에서 준비한 **TTF·OTF 파일**을 불러와 주세요.
 
 폰트 이름에 공백 경고가 뜨면 이름에서 **-** 나 **\_** 같은 기호를 지워 주세요.
 
-![SamFonts에 불러온 폰트](../images/font-android-04.png)
+<figure><img src="../images/font-android-04.png" alt="SamFonts에 불러온 폰트"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 설치
+**설치**
 
 폰트 옆 **INSTALL**을 눌러주세요. 경고 창이 나와도 그대로 진행해 설치를 마무리하면 돼요.
 
-![INSTALL 버튼](../images/font-android-05.png)
+<figure><img src="../images/font-android-05.png" alt="INSTALL 버튼"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### SamFonts 안에서 적용
+**SamFonts 안에서 적용**
 
 SamFonts 앱 안에서 **설치한 폰트 이름을 눌러** 적용해 주세요.
 
-![폰트 이름을 눌러 적용](../images/font-android-06.png)
+<figure><img src="../images/font-android-06.png" alt="폰트 이름을 눌러 적용"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}

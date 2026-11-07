@@ -9,19 +9,19 @@ description: "컷팅 스티커와 PNG 스티커를 붙여요"
 
 {% stepper %}
 {% step %}
-### 스티커 선택
+**스티커 선택**
 
 스티커북을 열고 **올가미 도구**로 원하는 스티커 둘레를 그려 선택해 주세요.
 
-![올가미로 스티커 선택](../images/goodnotes-sticker-01.png)
+<figure><img src="../images/goodnotes-sticker-01.png" alt="올가미로 스티커 선택"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 복사 → 붙여넣기
+**복사 → 붙여넣기**
 
 선택 영역을 눌러 **복사**한 뒤, 노트로 돌아가 빈 곳을 길게 누르고 **붙여넣기**를 눌러주세요.
 
-![복사 후 붙여넣기](../images/goodnotes-sticker-02.png)
+<figure><img src="../images/goodnotes-sticker-02.png" alt="복사 후 붙여넣기"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}
@@ -42,27 +42,27 @@ description: "컷팅 스티커와 PNG 스티커를 붙여요"
 
 {% stepper %}
 {% step %}
-### 요소 도구 열기
+**요소 도구 열기**
 
 상단 도구 막대에서 **요소(별 모양)** 도구를 누르고 아래쪽 **+** 를 눌러 새 컬렉션을 만들어 주세요.
 
-![요소 도구와 새 컬렉션](../images/goodnotes-sticker-03.png)
+<figure><img src="../images/goodnotes-sticker-03.png" alt="요소 도구와 새 컬렉션"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 스티커 추가
+**스티커 추가**
 
 **사진 추가** 또는 **가져오기**로 PNG 스티커를 선택하고 **만들기**를 눌러주세요.
 
-![컬렉션에 PNG 스티커 추가](../images/goodnotes-sticker-04.png)
+<figure><img src="../images/goodnotes-sticker-04.png" alt="컬렉션에 PNG 스티커 추가"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 노트에 붙이기
+**노트에 붙이기**
 
 요소 도구에서 스티커를 누르면 노트에 붙어요. 크기와 위치를 조절해 사용하세요.
 
-![요소에서 스티커 붙이기](../images/goodnotes-sticker-05.png)
+<figure><img src="../images/goodnotes-sticker-05.png" alt="요소에서 스티커 붙이기"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}

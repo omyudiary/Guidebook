@@ -14,27 +14,27 @@ description: "원하는 속지를 바인더에 추가해요"
 
 {% stepper %}
 {% step %}
-### 원하는 속지로 이동
+**원하는 속지로 이동**
 
 **페이지 목록(책 아이콘)** 을 열고 노트팔레트의 원하는 속지를 찾아 주세요.
 
-![노트팔레트에서 속지 선택](../images/noteshelf-note-palette-01.png)
+<figure><img src="../images/noteshelf-note-palette-01.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 속지 복사
+**속지 복사**
 
 **편집**을 누르고 해당 페이지를 선택한 뒤 **복제**를 눌러주세요.
 
-![페이지 복사 메뉴](../images/noteshelf-note-palette-02.png)
+<figure><img src="../images/noteshelf-note-palette-02.png" alt="페이지 복사 메뉴"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 바인더에 붙여넣기
+**바인더에 붙여넣기**
 
 복제된 페이지를 **길게 눌러 드래그**해서 바인더의 원하는 위치로 옮겨 주세요.
 
-![바인더 위치에 붙여넣기](../images/noteshelf-note-palette-03.png)
+<figure><img src="../images/noteshelf-note-palette-03.png" alt="바인더 위치에 붙여넣기"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}

@@ -7,19 +7,19 @@ description: "목차·탭을 눌러 원하는 페이지로 이동해요"
 
 {% stepper %}
 {% step %}
-### 읽기 모드에서 이동
+**읽기 모드에서 이동**
 
 오른쪽 위 **읽기 모드(책 아이콘)** 를 누른 뒤 탭이나 목차를 누르면 해당 페이지로 이동해요.
 
-![읽기 모드 아이콘](../images/samsung-notes-hyperlink-01.png)
+<figure><img src="../images/samsung-notes-hyperlink-01.png" alt="읽기 모드 아이콘"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 편집 모드에서 필기
+**편집 모드에서 필기**
 
 필기할 때는 **편집(펜) 아이콘**을 눌러 편집 모드로 돌아와 주세요. 편집 모드에서는 링크가 눌리지 않아요.
 
-![편집 모드 아이콘](../images/samsung-notes-hyperlink-02.png)
+<figure><img src="../images/samsung-notes-hyperlink-02.png" alt="편집 모드 아이콘"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}

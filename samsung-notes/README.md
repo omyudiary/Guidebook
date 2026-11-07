@@ -13,19 +13,19 @@ description: "삼성노트에서 오뮤다이어리 노트를 사용하는 방�
 
 {% stepper %}
 {% step %}
-### PDF 가져오기
+**PDF 가져오기**
 
 삼성노트 첫 화면 위쪽의 **PDF 가져오기** 아이콘을 누르고, 압축을 푼 PDF를 선택해 주세요.
 
-![PDF 가져오기 아이콘](../images/samsung-notes-import-01.png)
+<figure><img src="../images/samsung-notes-import-01.png" alt="PDF 가져오기 아이콘"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 또는 내 파일에서 열기
+**또는 내 파일에서 열기**
 
 **내 파일**에서 PDF를 누르고 **연결 앱 → Samsung Notes**를 선택해도 돼요.
 
-![연결 앱에서 삼성노트 선택](../images/samsung-notes-import-02.png)
+<figure><img src="../images/samsung-notes-import-02.png" alt="연결 앱에서 삼성노트 선택"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}

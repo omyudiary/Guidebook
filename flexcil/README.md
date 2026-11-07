@@ -13,19 +13,19 @@ description: "플랙슬에서 오뮤다이어리 노트를 사용하는 방법�
 
 {% stepper %}
 {% step %}
-### 플랙슬로 가져오기
+**플랙슬로 가져오기**
 
 플랙슬 문서함에서 **+ (또는 가져오기)** 를 누르고 압축을 푼 PDF를 선택해 주세요.
 
-![플랙슬 가져오기](../images/flexcil-import-01.png)
+<figure><img src="../images/flexcil-import-01.png" alt="플랙슬 가져오기"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 또는 다른 앱에서 보내기
+**또는 다른 앱에서 보내기**
 
 파일 앱·내 파일에서 PDF를 선택하고 **공유·연결 앱 → Flexcil**을 선택해도 돼요.
 
-![공유 메뉴의 Flexcil](../images/flexcil-import-02.png)
+<figure><img src="../images/flexcil-import-02.png" alt="공유 메뉴의 Flexcil"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}

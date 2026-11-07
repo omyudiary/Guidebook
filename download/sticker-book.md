@@ -22,29 +22,29 @@ description: "스티커북 파일을 저장하고 필기 앱으로 불러오는 
 {% tab title="아이패드" %}
 {% stepper %}
 {% step %}
-### 사파리에서 다운로드
+**사파리에서 다운로드**
 
 메일의 **Download Link**를 **사파리(Safari)** 에서 열고 다운로드해 주세요.
 
-![사파리 다운로드 화면](../images/sb-ipad-01.png)
+<figure><img src="../images/sb-ipad-01.png" alt="사파리 다운로드 화면"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 압축 풀기
+**압축 풀기**
 
 파일 앱 **다운로드** 폴더에서 ZIP 파일을 탭해 압축을 풀어주세요.
 
-![압축 해제된 스티커북 폴더](../images/sb-ipad-02.png)
+<figure><img src="../images/sb-ipad-02.png" alt="압축 해제된 스티커북 폴더"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 앱에 맞는 파일 선택
+**앱에 맞는 파일 선택**
 
 **[굿노트]**, **[노타빌리티]** 처럼 사용하는 앱 이름이 붙은 파일을 길게 누르고 **공유 → 필기 앱**을 선택해 주세요.
 
 PNG 스티커는 **사진 앱에 저장**해 두면 필기 앱에서 바로 불러올 수 있어요. (파일 선택 → 공유 → **이미지 저장**)
 
-![앱 이름이 붙은 스티커 파일 목록](../images/sb-ipad-03.png)
+<figure><img src="../images/sb-ipad-03.png" alt="앱 이름이 붙은 스티커 파일 목록"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}
@@ -52,27 +52,27 @@ PNG 스티커는 **사진 앱에 저장**해 두면 필기 앱에서 바로 불�
 {% tab title="갤럭시탭" %}
 {% stepper %}
 {% step %}
-### 크롬에서 다운로드
+**크롬에서 다운로드**
 
 메일의 **Download Link**를 **크롬** 또는 **삼성 인터넷**에서 열고 다운로드해 주세요.
 
-![다운로드 완료 알림](../images/sb-galaxy-01.png)
+<figure><img src="../images/sb-galaxy-01.png" alt="다운로드 완료 알림"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 압축 풀기
+**압축 풀기**
 
 **내 파일 → 다운로드** 폴더에서 ZIP 파일을 누르고 **압축 풀기**를 눌러주세요.
 
-![내 파일 압축 풀기](../images/sb-galaxy-02.png)
+<figure><img src="../images/sb-galaxy-02.png" alt="내 파일 압축 풀기"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 앱에 맞는 파일 선택
+**앱에 맞는 파일 선택**
 
 사용하는 앱 이름이 붙은 파일을 누르고 **연결 앱**에서 필기 앱을 선택해 주세요. PNG 스티커는 갤러리에서 바로 불러올 수 있어요.
 
-![연결 앱 선택](../images/sb-galaxy-03.png)
+<figure><img src="../images/sb-galaxy-03.png" alt="연결 앱 선택"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}

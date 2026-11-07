@@ -14,27 +14,27 @@ description: "원하는 속지를 바인더에 추가해요"
 
 {% stepper %}
 {% step %}
-### 원하는 속지로 이동
+**원하는 속지로 이동**
 
 **읽기 전용 모드**에서 노트팔레트의 원하는 속지를 눌러 이동해 주세요.
 
-![노트팔레트에서 속지 선택](../images/goodnotes-note-palette-01.png)
+<figure><img src="../images/goodnotes-note-palette-01.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 속지 복사
+**속지 복사**
 
 오른쪽 위 **⋯ (더보기) → 페이지 복사**를 눌러주세요.
 
-![페이지 복사 메뉴](../images/goodnotes-note-palette-02.png)
+<figure><img src="../images/goodnotes-note-palette-02.png" alt="페이지 복사 메뉴"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 바인더에 붙여넣기
+**바인더에 붙여넣기**
 
 바인더의 원하는 위치로 이동한 뒤 **페이지 추가(+) → 페이지 붙여넣기**를 눌러주세요.
 
-![바인더 위치에 붙여넣기](../images/goodnotes-note-palette-03.png)
+<figure><img src="../images/goodnotes-note-palette-03.png" alt="바인더 위치에 붙여넣기"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}

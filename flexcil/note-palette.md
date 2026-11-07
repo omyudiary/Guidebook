@@ -14,27 +14,27 @@ description: "원하는 속지를 바인더에 추가해요"
 
 {% stepper %}
 {% step %}
-### 원하는 속지로 이동
+**원하는 속지로 이동**
 
 **펜 모드를 끈 상태**에서 노트팔레트의 원하는 속지를 눌러 이동해 주세요.
 
-![노트팔레트에서 속지 선택](../images/flexcil-note-palette-01.png)
+<figure><img src="../images/flexcil-note-palette-01.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 속지 복사
+**속지 복사**
 
 **페이지 보기(썸네일)** 에서 해당 페이지를 선택하고 **복사**를 눌러주세요.
 
-![페이지 복사 메뉴](../images/flexcil-note-palette-02.png)
+<figure><img src="../images/flexcil-note-palette-02.png" alt="페이지 복사 메뉴"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% step %}
-### 바인더에 붙여넣기
+**바인더에 붙여넣기**
 
 바인더의 원하는 위치를 선택하고 **붙여넣기**를 눌러주세요.
 
-![바인더 위치에 붙여넣기](../images/flexcil-note-palette-03.png)
+<figure><img src="../images/flexcil-note-palette-03.png" alt="바인더 위치에 붙여넣기"><figcaption></figcaption></figure>
 
 {% endstep %}
 {% endstepper %}
