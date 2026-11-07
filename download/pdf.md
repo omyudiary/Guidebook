@@ -5,7 +5,7 @@ icon: file-arrow-down
 
 # PDF 다운로드
 
-사용하시는 기기를 선택해 주세요.
+사용하시는 기기를 선택해 주세요⬇️
 
 {% tabs %}
 {% tab title="아이패드" %}
@@ -14,8 +14,7 @@ icon: file-arrow-down
 **메일의 다운로드 링크 열기**
 
 구매 후 받으신 메일을 열고 **Download Link** 버튼을 눌러주세요.\
-반드시 **사파리(Safari)** 에서 열어야 해요.\
-메일 앱에서 바로 열리면 오른쪽 위 **사파리로 열기**를 눌러주세요.
+반드시 **사파리(Safari)**&#xC5D0;서 열어야 해요.
 
 <figure><img src="../.gitbook/assets/dl-ipad-01.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
 {% endstep %}

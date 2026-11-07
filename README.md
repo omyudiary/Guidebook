@@ -1,12 +1,12 @@
 ---
-description: 오뮤다이어리 디지털 노트를 처음 사용하시는 분들을 위한 공식 가이드북이에요.
+description: 오뮤다이어리를 처음 사용하시는 분들을 위한 공식 가이드북이에요😊
 icon: hand-wave
 ---
 
 # Welcome to omyudiary
 
 오뮤다이어리를 선택해 주셔서 감사합니다.\
-이 가이드북에는 **파일 다운로드부터 필기 앱별 사용법, 폰트 설치**까지 디지털 노트를 바로 쓰기 위해 필요한 내용을 모두 담았어요. 오뮤다이어리의 **모든 디지털 상품에 공통으로 적용**되는 가이드예요.
+이 가이드북에는 파일 다운로드부터 필기 앱별 사용법, 폰트 설치까지 디지털 노트를 바로 쓰기 위해 필요한 내용을 모두 담았어요. 오뮤다이어리의 **모든 디지털 상품에 공통으로 적용**되는 가이드예요.
 
 {% hint style="info" %}
 **처음이신가요?** 아래 순서대로 따라오시면 가장 빠르게 시작할 수 있어요.
@@ -22,21 +22,10 @@ icon: hand-wave
 
 ## 어떤 앱을 써야 할까요?
 
-오뮤다이어리 노트는 하이퍼링크 PDF를 지원하는 필기 앱이라면 어디서든 쓸 수 있어요.\
+오뮤다이어리의 전상품은 하이퍼링크 PDF를 지원하는 필기 앱이라면 어디서든 쓸 수 있어요.\
 사용하시는 기기에서 설치할 수 있는 앱을 확인해 주세요.
 
-| 필기 앱                     | 아이패드 | 갤럭시탭 | 가이드                    |
-| ------------------------ | :--: | :--: | ---------------------- |
-| **굿노트** · Goodnotes      |   ✓  |   ✓  | [바로가기](goodnotes/)     |
-| **노타빌리티** · Notability   |   ✓  |   –  | [바로가기](notability/)    |
-| **삼성노트** · Samsung Notes |   –  |   ✓  | [바로가기](samsung-notes/) |
-| **노트쉘프** · Noteshelf     |   ✓  |   ✓  | [바로가기](noteshelf/)     |
-| **플랙슬** · Flexcil        |   ✓  |   ✓  | [바로가기](flexcil/)       |
-| **킬로노트** · Kilonotes     |   ✓  |   ✓  | –                      |
-| **콜라노트** · CollaNote     |   ✓  |   –  | –                      |
-| **노트플러스** · Note+        |   ✓  |   –  | –                      |
-| **노트인** · Notein         |   –  |   ✓  | –                      |
-| **노트풀** · Noteful        |   ✓  |   –  | –                      |
+<table><thead><tr><th width="235.3333740234375">필기 앱</th><th width="127" align="center">아이패드</th><th width="125" align="center">갤럭시탭</th><th>가이드</th></tr></thead><tbody><tr><td><strong>굿노트</strong> · Goodnotes</td><td align="center">✓</td><td align="center">✓</td><td><a href="goodnotes/">바로가기</a></td></tr><tr><td><strong>노타빌리티</strong> · Notability</td><td align="center">✓</td><td align="center"></td><td><a href="notability/">바로가기</a></td></tr><tr><td><strong>삼성노트</strong> · Samsung Notes</td><td align="center"></td><td align="center">✓</td><td><a href="samsung-notes/">바로가기</a></td></tr><tr><td><strong>노트쉘프</strong> · Noteshelf</td><td align="center">✓</td><td align="center">✓</td><td><a href="noteshelf/">바로가기</a></td></tr><tr><td><strong>플랙슬</strong> · Flexcil</td><td align="center">✓</td><td align="center">✓</td><td><a href="flexcil/">바로가기</a></td></tr><tr><td><strong>킬로노트</strong> · Kilonotes</td><td align="center">✓</td><td align="center">✓</td><td>–</td></tr><tr><td><strong>콜라노트</strong> · CollaNote</td><td align="center">✓</td><td align="center"></td><td>–</td></tr><tr><td><strong>노트플러스</strong> · Note+</td><td align="center">✓</td><td align="center"></td><td>–</td></tr><tr><td><strong>노트인</strong> · Notein</td><td align="center"></td><td align="center">✓</td><td>–</td></tr><tr><td><strong>노트풀</strong> · Noteful</td><td align="center">✓</td><td align="center"></td><td>–</td></tr></tbody></table>
 
 {% hint style="info" %}
 가이드가 없는 앱도 **불러오기 → 링크 이동 → 페이지 복사** 흐름은 거의 같아요.
