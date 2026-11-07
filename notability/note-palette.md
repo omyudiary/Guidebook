@@ -1,24 +1,40 @@
-# 노트팔레트 사용방법
+---
+icon: palette
+description: "원하는 속지를 바인더에 추가해요"
+---
+
+# 노트팔레트 사용하는 법
 
 {% hint style="warning" %}
-노트팔레트(NOTE PALETTE)가 있는 제품에만 해당됩니다!
-(예: 올라운드 노트 / 올데이 언어노트 / 유어컬러 언어노트 / 워크윗미 노트)
+**노트팔레트(NOTE PALETTE)가 포함된 제품에만 해당돼요.**
+예) 올라운드 노트 · 올데이 언어노트 · 유어컬러 언어노트 · 워크윗미 노트
 {% endhint %}
 
-### STEP 01
+**노트팔레트**는 여러 가지 속지를 한곳에 모아 둔 페이지예요. 필요한 속지를 골라 내 바인더(노트 본문)에 복사해 쓰는 방식이에요.
 
-![노트팔레트 사용방법 STEP 01](../images/nb-note-palette-01.png)
+{% stepper %}
+{% step %}
+### 원하는 속지로 이동
 
-**하이퍼링크**를 활성화 시킨 후 **원하는 노트**를 눌러주세요.
+노트팔레트에서 원하는 속지를 눌러 이동해 주세요.
 
-### STEP 02
+![노트팔레트에서 속지 선택](../images/notability-note-palette-01.png)
 
-![노트팔레트 사용방법 STEP 02](../images/nb-note-palette-02.png)
+{% endstep %}
+{% step %}
+### 속지 복사
 
-우측 상단의 책 모양 아이콘을 누르고 페이지를 **복사**합니다.
+**페이지 보기(썸네일)** 를 열고 해당 페이지를 **복사**해 주세요.
 
-### STEP 03
+![페이지 복사 메뉴](../images/notability-note-palette-02.png)
 
-![노트팔레트 사용방법 STEP 03](../images/nb-note-palette-03.png)
+{% endstep %}
+{% step %}
+### 바인더에 붙여넣기
 
-**바인더로 이동**한 후 **붙이기**를 눌러주세요.
+바인더의 원하는 위치 페이지를 누르고 **붙이기**를 선택해 주세요.
+
+![바인더 위치에 붙여넣기](../images/notability-note-palette-03.png)
+
+{% endstep %}
+{% endstepper %}

@@ -1,19 +1,33 @@
+---
+icon: file-circle-plus
+description: "필요한 속지를 복사해서 늘려요"
+---
+
 # 페이지 추가하는 법
 
-### STEP 01
+{% stepper %}
+{% step %}
+### 페이지 목록 열기
 
-![페이지 추가하는 법 STEP 01](../images/ns-add-page-01.png)
+왼쪽 위 **페이지 목록(책 아이콘)** 을 눌러주세요.
 
-**책 모양 아이콘**을 눌러주세요.
+![페이지 목록 아이콘](../images/noteshelf-add-page-01.png)
 
-### STEP 02
+{% endstep %}
+{% step %}
+### 편집
 
-![페이지 추가하는 법 STEP 02](../images/ns-add-page-02.png)
+목록 위쪽의 **편집**(또는 선택)을 눌러주세요.
 
-**편집**을 눌러주세요.
+![편집 버튼](../images/noteshelf-add-page-02.png)
 
-### STEP 03
+{% endstep %}
+{% step %}
+### 복제
 
-![페이지 추가하는 법 STEP 03](../images/ns-add-page-03.png)
+추가할 페이지를 선택하고 **복제**를 누르면 바로 뒤에 같은 페이지가 생겨요.
 
-페이지를 선택하고 **복제**를 눌러주세요.
+![복제 버튼](../images/noteshelf-add-page-03.png)
+
+{% endstep %}
+{% endstepper %}

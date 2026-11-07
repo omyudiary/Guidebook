@@ -1,22 +1,40 @@
-# 노트팔레트 사용방법
+---
+icon: palette
+description: "원하는 속지를 바인더에 추가해요"
+---
+
+# 노트팔레트 사용하는 법
 
 {% hint style="warning" %}
-노트팔레트(NOTE PALETTE)가 있는 제품에만 해당됩니다!
-(예: 올라운드 노트 / 올데이 언어노트 / 유어컬러 언어노트 / 워크윗미 노트)
+**노트팔레트(NOTE PALETTE)가 포함된 제품에만 해당돼요.**
+예) 올라운드 노트 · 올데이 언어노트 · 유어컬러 언어노트 · 워크윗미 노트
 {% endhint %}
 
-### STEP 01
+**노트팔레트**는 여러 가지 속지를 한곳에 모아 둔 페이지예요. 필요한 속지를 골라 내 바인더(노트 본문)에 복사해 쓰는 방식이에요.
 
-![노트팔레트 사용방법 STEP 01](../images/sn-note-palette-01.png)
+{% stepper %}
+{% step %}
+### 원하는 속지로 이동
 
-**목록 아이콘**을 누르고 원하는 페이지의 ⋮ 를 누른 후 **복사**를 눌러주세요.
+**읽기 모드**에서 노트팔레트의 원하는 속지를 눌러 이동해 주세요.
 
-### STEP 02
+![노트팔레트에서 속지 선택](../images/samsung-notes-note-palette-01.png)
 
-![노트팔레트 사용방법 STEP 02](../images/sn-note-palette-02.png)
+{% endstep %}
+{% step %}
+### 속지 복사
 
-**바인더로 이동**한 후 **붙여넣기**를 눌러주세요.
+**목록 아이콘**을 누르고 해당 페이지의 **⋮ → 복사**를 눌러주세요.
 
-{% hint style="info" %}
-**목록 아이콘**이 안 보인다면? → [목록 아이콘 생성 방법](list-icon.md)
-{% endhint %}
+![페이지 복사 메뉴](../images/samsung-notes-note-palette-02.png)
+
+{% endstep %}
+{% step %}
+### 바인더에 붙여넣기
+
+바인더의 원하는 위치에서 **⋮ → 붙여넣기**를 눌러주세요.
+
+![바인더 위치에 붙여넣기](../images/samsung-notes-note-palette-03.png)
+
+{% endstep %}
+{% endstepper %}

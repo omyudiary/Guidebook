@@ -1,17 +1,29 @@
+---
+icon: file-circle-plus
+description: "필요한 속지를 복사해서 늘려요"
+---
+
 # 페이지 추가하는 법
 
-### STEP 01
+{% stepper %}
+{% step %}
+### 페이지 복사
 
-![페이지 추가하는 법 STEP 01](../images/sn-add-page-01.png)
+**목록 아이콘**을 누르고, 추가할 페이지의 **⋮ → 복사**를 눌러주세요.
 
-목록 아이콘을 누르고 추가하고 싶은 페이지의 ⋮ 을 누른 후 **복사**를 누릅니다.
+![페이지 ⋮ 메뉴의 복사](../images/samsung-notes-add-page-01.png)
 
-### STEP 02
+{% endstep %}
+{% step %}
+### 붙여넣기
 
-![페이지 추가하는 법 STEP 02](../images/sn-add-page-02.png)
+넣고 싶은 위치 앞 페이지의 **⋮ → 붙여넣기**를 눌러주세요.
 
-**붙여넣기**를 눌러주세요.
+![붙여넣기](../images/samsung-notes-add-page-02.png)
+
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
-**목록 아이콘**이 안 보인다면? → [목록 아이콘 생성 방법](list-icon.md)
+**목록 아이콘**이 안 보인다면 → [목록 아이콘이 안보일 때](list-icon.md)
 {% endhint %}

@@ -1,37 +1,41 @@
+---
+icon: image
+description: "원하는 표지로 바꿔요"
+---
+
 # 표지 변경하는 법
 
-### STEP 01
+{% stepper %}
+{% step %}
+### 표지 파일 불러오기
 
-![표지 변경하는 법 STEP 01](../images/nb-cover-01.png)
+[PDF 다운로드](../download/pdf.md)와 같은 방법으로 표지 파일을 노타빌리티에 가져와 주세요.
 
-[제품 다운로드 방법](download.md)과 동일하게 표지를 저장해 주세요.
+![표지 파일 가져오기](../images/notability-cover-01.png)
 
-### STEP 02
+{% endstep %}
+{% step %}
+### 표지 복사
 
-![표지 변경하는 법 STEP 02](../images/nb-cover-02.png)
+표지 노트에서 왼쪽 위 **페이지 보기(썸네일)** 를 열고 표지 페이지를 **복사**해 주세요.
 
-노타빌리티를 열고 상단의 화살표를 누른 후 **파일**을 눌러줍니다.
+![썸네일에서 표지 복사](../images/notability-cover-02.png)
 
-### STEP 03
+{% endstep %}
+{% step %}
+### 바꿀 노트에 붙이기
 
-![표지 변경하는 법 STEP 03](../images/nb-cover-03.png)
+표지를 바꿀 노트의 썸네일에서 1페이지를 선택하고 **붙이기**를 눌러주세요.
 
-**다운로드 받아둔 표지 파일**을 열어줍니다.
+![붙이기](../images/notability-cover-03.png)
 
-### STEP 04
+{% endstep %}
+{% step %}
+### 기존 표지 삭제
 
-![표지 변경하는 법 STEP 04](../images/nb-cover-04.png)
+기존 표지는 **페이지 지우기**로 삭제해 주세요.
 
-좌측 상단의 책 모양 아이콘을 누르고 표지를 **복사**합니다.
+![페이지 지우기](../images/notability-cover-04.png)
 
-### STEP 05
-
-![표지 변경하는 법 STEP 05](../images/nb-cover-05.png)
-
-변경하고 싶은 노트를 열고 표지를 선택한 후 **붙이기**를 눌러주세요.
-
-### STEP 06
-
-![표지 변경하는 법 STEP 06](../images/nb-cover-06.png)
-
-이전의 표지를 삭제하고 싶을 경우 **페이지 지우기**를 눌러주세요.
+{% endstep %}
+{% endstepper %}

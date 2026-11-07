@@ -1,35 +1,56 @@
-# 스티커 사용방법
+---
+icon: note-sticky
+description: "컷팅 스티커와 PNG 스티커를 붙여요"
+---
+
+# 스티커 사용법
 
 ## 컷팅 스티커
 
-### STEP 01
+{% stepper %}
+{% step %}
+### 스티커 복사
 
-![스티커 사용방법 STEP 01](../images/nb-sticker-01.png)
+스티커북에서 **올가미 도구**로 스티커를 선택하고 **복사**를 눌러주세요.
 
-스티커 파일을 열고 **올가미 툴**을 누른 후 필요한 스티커를 **복사**해줍니다.
+![올가미로 스티커 복사](../images/notability-sticker-01.png)
 
-### STEP 02
+{% endstep %}
+{% step %}
+### 노트에 붙이기
 
-![스티커 사용방법 STEP 02](../images/nb-sticker-02.png)
+노트로 돌아가 빈 곳을 길게 누르고 **붙이기**를 눌러주세요.
 
-스티커가 필요한 파일에 **붙이기**를 눌러주세요.
+![붙이기](../images/notability-sticker-02.png)
+
+{% endstep %}
+{% endstepper %}
 
 ## PNG 스티커
 
-### STEP 01
+{% stepper %}
+{% step %}
+### 사진 삽입
 
-![스티커 사용방법 STEP 01](../images/nb-sticker-03.png)
+**+ (미디어) → 사진**에서 저장해 둔 스티커를 선택해 주세요.
 
-**[+] 버튼 > 포토 라이브러리 > 모든 사진** > 저장한 스티커를 누르고 **추가**를 눌러주세요.
+![미디어 → 사진](../images/notability-sticker-03.png)
 
-### STEP 02
+{% endstep %}
+{% step %}
+### 자르기
 
-![스티커 사용방법 STEP 02](../images/nb-sticker-04.png)
+이미지를 누르고 **사진 자르기**로 필요한 부분만 남긴 뒤 체크(✓)를 눌러주세요.
 
-스티커 이미지를 누른 후 **자르기 사진**을 눌러주세요.
+![사진 자르기](../images/notability-sticker-04.png)
 
-### STEP 03
+{% endstep %}
+{% step %}
+### 크기 조절
 
-![스티커 사용방법 STEP 03](../images/nb-sticker-05.png)
+모서리를 드래그해 크기와 위치를 맞추면 완성이에요.
 
-필요한 영역을 조절하고 체크를 눌러주세요.
+![스티커 크기 조절](../images/notability-sticker-05.png)
+
+{% endstep %}
+{% endstepper %}

@@ -1,35 +1,37 @@
+---
+icon: image
+description: "원하는 표지로 바꿔요"
+---
+
 # 표지 변경하는 법
 
-### STEP 01
+{% stepper %}
+{% step %}
+### 페이지 목록 열기
 
-![표지 변경하는 법 STEP 01](../images/sn-cover-01.png)
+오른쪽 위 **목록 아이콘**을 눌러 페이지 목록을 열고, 기존 표지(1페이지)를 선택해 주세요.
 
-[제품 다운로드 방법](download.md)과 동일하게 표지를 저장해 주세요.
+![페이지 목록](../images/samsung-notes-cover-01.png)
 
-### STEP 02
+{% endstep %}
+{% step %}
+### 표지 파일 삽입
 
-![표지 변경하는 법 STEP 02](../images/sn-cover-02.png)
+**삽입(클립 아이콘) → PDF**(또는 이미지)를 눌러 다운로드해 둔 표지 파일을 선택해 주세요.
 
-**목록 아이콘**을 누르고 변경할 표지의 위치를 누른 후 **클립 아이콘**을 눌러주세요.
+![삽입 → PDF로 표지 선택](../images/samsung-notes-cover-02.png)
 
-### STEP 03
+{% endstep %}
+{% step %}
+### 위치 정리 · 기존 표지 삭제
 
-![표지 변경하는 법 STEP 03](../images/sn-cover-03.png)
+새 표지를 맨 앞으로 드래그하고, 기존 표지는 **⋮ → 삭제**로 지워 주세요.
 
-**이미지**를 눌러주세요.
+![기존 표지 삭제](../images/samsung-notes-cover-03.png)
 
-### STEP 04
-
-![표지 변경하는 법 STEP 04](../images/sn-cover-04.png)
-
-다운로드에서 받아둔 표지를 열어줍니다.
-
-### STEP 05
-
-![표지 변경하는 법 STEP 05](../images/sn-cover-05.png)
-
-이전 표지는 **삭제**를 눌러주세요.
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
-**목록 아이콘**이 안 보인다면? → [목록 아이콘 생성 방법](list-icon.md)
+**목록 아이콘**이 안 보인다면 → [목록 아이콘이 안보일 때](list-icon.md)
 {% endhint %}

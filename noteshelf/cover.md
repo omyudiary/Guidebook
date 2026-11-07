@@ -1,37 +1,35 @@
+---
+icon: image
+description: "원하는 표지로 바꿔요"
+---
+
 # 표지 변경하는 법
 
-### STEP 01
+노트쉘프는 노트 바깥 표지(책장에 보이는 표지)를 이미지로 따로 지정할 수 있어요.
 
-![표지 변경하는 법 STEP 01](../images/ns-cover-01.png)
+{% stepper %}
+{% step %}
+### 표지 이미지 저장
 
-[제품 다운로드 방법](download.md)과 동일하게 표지를 저장해 주세요.
+다운로드한 표지 파일(PNG)을 **사진 앱 또는 갤러리**에 저장해 주세요.
 
-### STEP 02
+![표지 이미지 저장](../images/noteshelf-cover-01.png)
 
-![표지 변경하는 법 STEP 02](../images/ns-cover-02.png)
+{% endstep %}
+{% step %}
+### 표지 변경 메뉴
 
-표지 변경을 원하는 **노트를 꾹 누르고** **표지 변경**을 눌러주세요.
+노트쉘프 첫 화면에서 표지를 바꿀 노트를 **길게 누르고 → 표지 변경**을 눌러주세요.
 
-### STEP 03
+![표지 변경 메뉴](../images/noteshelf-cover-02.png)
 
-![표지 변경하는 법 STEP 03](../images/ns-cover-03.png)
+{% endstep %}
+{% step %}
+### 사용자 지정 표지
 
-**사용자 지정**을 누르고 **사진 추가 아이콘**을 눌러주세요.
+**사용자 지정 → 사진 추가**를 눌러 저장해 둔 표지를 선택하고, 위치를 맞춘 뒤 적용해 주세요.
 
-### STEP 04
+![사용자 지정 표지 적용](../images/noteshelf-cover-03.png)
 
-![표지 변경하는 법 STEP 04](../images/ns-cover-04.png)
-
-원하는 **표지 스타일**을 선택해주세요.
-
-### STEP 05
-
-![표지 변경하는 법 STEP 05](../images/ns-cover-05.png)
-
-다운 받아둔 표지로 변경해줍니다. (표지 위치 조절 가능합니다)
-
-### STEP 06
-
-![표지 변경하는 법 STEP 06](../images/ns-cover-06.png)
-
-표지 적용 완료!
+{% endstep %}
+{% endstepper %}
