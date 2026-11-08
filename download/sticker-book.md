@@ -1,5 +1,5 @@
 ---
-description: 스티커북 파일을 저장하고 필기 앱으로 불러오는 방법이에요.
+description: 스티커북 파일을 저장하고 필기 앱으로 불러오는 방법입니다.
 icon: note-sticky
 ---
 
