@@ -1,20 +1,20 @@
 ---
-description: 구매한 디지털 노트 파일을 기기에 저장하고 필기 앱으로 불러오는 방법이에요.
+description: 구매한 디지털 파일을 기기에 저장하고 필기 앱으로 불러오는 방법입니다.
 icon: file-arrow-down
 ---
 
-# PDF 다운로드
+# 파일 다운로드
 
-사용하시는 기기를 선택해 주세요⬇️
+아이패드와 갤럭시탭 중에 선택해 주세요⬇️
 
 {% tabs %}
-{% tab title="아이패드" %}
+{% tab title="아이패드" icon="apple" %}
 {% stepper %}
 {% step %}
 **메일의 다운로드 링크 열기**
 
-구매 후 받으신 메일을 열고 **Download Link** 버튼을 눌러주세요.\
-반드시 **사파리(Safari)**&#xC5D0;서 열어야 해요.
+구매 후 받으신 메일을 열고 **\[Download Link]** 버튼을 눌러주세요.\
+반드시 **사파리(Safari)**&#xC5D0;서 열어주세요.
 
 <figure><img src="../.gitbook/assets/dl-ipad-01.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
 {% endstep %}
@@ -22,24 +22,26 @@ icon: file-arrow-down
 {% step %}
 **파일 다운로드**
 
-다운로드 페이지에서 **다운로드**를 누른 뒤, 확인 창에서 한 번 더 **다운로드**를 눌러주세요.
+원하는 파일을 누르고, 우측상단의 **\[...]** 점 3개 버튼을 누른 후, **\[다운로드]**&#xB97C; 눌러주세요.\
+팝업창이 열리면 **\[파일에 저장]**&#xC744; 눌러주세요.\
+(저장을 생략하고 사용 중인 필기앱으로 바로 연결하셔도 됩니다)
 
 <figure><img src="../.gitbook/assets/dl-ipad-02.png" alt="다운로드 버튼과 확인 창"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**파일 앱에서 압축 풀기**
+**파일 앱에서 필기 앱으로 열기**
 
-주소창 옆 **다운로드(↓) 아이콘 → 다운로드 항목**을 누르면 파일 앱의 다운로드 폴더가 열려요.\
-**ZIP 파일을 한 번 탭**하면 같은 위치에 폴더로 압축이 풀려요.
+파일 앱에서 **다운로드 완료한 파일**을 눌러주세요.\
+(zip 파일은 한 번 클릭하면 자동으로 압축이 해제됩니다)\
+우측 상단의 **\[⬆️]** 공유 버튼을 누른 후, 사용 중인 **\[필기 앱 아이콘]**&#xC744; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/dl-ipad-03.png" alt="파일 앱 다운로드 폴더와 압축 해제된 폴더"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**필기 앱으로 열기**
+**불러오기**
 
-사용할 파일을 **길게 누르고 → 공유 → 필기 앱**을 선택해 주세요.\
 굿노트는 **새로운 문서로 불러오기**, 노타빌리티는 **새로운 노트로 가져오기**를 누르면 끝이에요.
 
 <figure><img src="../.gitbook/assets/dl-ipad-04.png" alt="공유 메뉴에서 필기 앱 선택"><figcaption></figcaption></figure>
@@ -47,12 +49,13 @@ icon: file-arrow-down
 {% endstepper %}
 {% endtab %}
 
-{% tab title="갤럭시탭" %}
+{% tab title="갤럭시탭" icon="android" %}
 {% stepper %}
 {% step %}
 **메일의 다운로드 링크 열기**
 
-구매 후 받으신 메일을 열고 **Download Link** 버튼을 눌러주세요. **크롬** 또는 **삼성 인터넷**에서 열어주세요.
+구매 후 받으신 메일을 열고 **\[Download Link]** 버튼을 눌러주세요.\
+**크롬** 또는 **삼성 인터넷**에서 열어주세요.
 
 <figure><img src="../.gitbook/assets/dl-galaxy-01.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
 {% endstep %}
@@ -60,15 +63,18 @@ icon: file-arrow-down
 {% step %}
 **파일 다운로드**
 
-**다운로드**를 누르고, 화면 위쪽에 완료 알림이 뜰 때까지 기다려 주세요.
+원하는 파일을 누르고, 우측상단의 **\[...]** 점 3개 버튼을 누른 후, **\[다운로드]**&#xB97C; 눌러주세요.\
+화면 위쪽에 완료 알림이 뜰 때까지 기다려 주세요.
 
 <figure><img src="../.gitbook/assets/dl-galaxy-02.png" alt="다운로드 완료 알림"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**내 파일에서 압축 풀기**
+**파일 앱에서 필기 앱으로 열기**
 
-**내 파일 → 다운로드** 폴더에서 ZIP 파일을 누르고 **압축 풀기**를 눌러주세요.
+파일 앱에서 **다운로드 완료한 파일**을 눌러주세요.\
+(zip 파일은 한 번 클릭하면 자동으로 압축이 해제됩니다)\
+우측 상단의 **\[⬆️]** 공유 버튼을 누른 후, 사용 중인 **\[필기 앱 아이콘]**&#xC744; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/dl-galaxy-03.png" alt="내 파일 앱의 압축 풀기"><figcaption></figcaption></figure>
 {% endstep %}

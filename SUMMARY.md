@@ -4,7 +4,7 @@
 
 ## 다운로드 방법
 
-* [PDF 다운로드](download/pdf.md)
+* [파일 다운로드](download/pdf.md)
   * [아이패드](download/pdf/ipad.md)
   * [갤럭시탭](download/pdf/galaxy-tab.md)
 * [스티커북 다운로드](download/sticker-book.md)
