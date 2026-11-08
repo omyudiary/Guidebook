@@ -1,5 +1,5 @@
 ---
-description: 필요한 속지를 복사해서 늘려요
+description: 필요한 속지를 복사해 추가하는 방법입니다.
 icon: file-circle-plus
 ---
 
@@ -9,15 +9,15 @@ icon: file-circle-plus
 {% step %}
 **페이지 목록 열기**
 
-왼쪽 위 **페이지 목록(책 아이콘)** 을 눌러주세요.
+왼쪽 위 **\[페이지 목록(책 모양)]** 아이콘을 눌러주세요.
 
 <figure><img src="../.gitbook/assets/noteshelf-add-page-01.png" alt="페이지 목록 아이콘"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**편집**
+**편집 모드**
 
-목록 위쪽의 **편집**(또는 선택)을 눌러주세요.
+목록 위쪽의 **\[편집]**(또는 **\[선택]**)을 눌러주세요.
 
 <figure><img src="../.gitbook/assets/noteshelf-add-page-02.png" alt="편집 버튼"><figcaption></figcaption></figure>
 {% endstep %}
@@ -25,7 +25,7 @@ icon: file-circle-plus
 {% step %}
 **복제**
 
-추가할 페이지를 선택하고 **복제**를 누르면 바로 뒤에 같은 페이지가 생겨요.
+추가할 페이지를 선택하고 **\[복제]**&#xB97C; 누르면 바로 뒤에 같은 페이지가 추가돼요.
 
 <figure><img src="../.gitbook/assets/noteshelf-add-page-03.png" alt="복제 버튼"><figcaption></figcaption></figure>
 {% endstep %}
