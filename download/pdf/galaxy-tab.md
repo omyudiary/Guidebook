@@ -1,5 +1,5 @@
 ---
-description: 갤럭시탭에서 PDF 노트를 다운로드하고 필기 앱으로 불러오는 방법이에요.
+description: 갤럭시탭에서 PDF 파일을 다운로드하고 필기 앱으로 불러오는 방법이에요.
 icon: android
 ---
 

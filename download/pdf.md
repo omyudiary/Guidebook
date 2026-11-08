@@ -24,7 +24,7 @@ icon: file-arrow-down
 
 원하는 파일을 누르고, 우측상단의 **\[...]** 점 3개 버튼을 누른 후, **\[다운로드]**&#xB97C; 눌러주세요.\
 팝업창이 열리면 **\[파일에 저장]**&#xC744; 눌러주세요.\
-(저장을 생략하고 사용 중인 필기앱으로 바로 연결하셔도 됩니다)
+(zip 파일이 아닌 경우, 저장을 생략하고 사용 중인 필기앱으로 바로 연결하셔도 됩니다)
 
 <figure><img src="../.gitbook/assets/dl-ipad-02.png" alt="다운로드 버튼과 확인 창"><figcaption></figcaption></figure>
 {% endstep %}
@@ -33,7 +33,7 @@ icon: file-arrow-down
 **파일 앱에서 필기 앱으로 열기**
 
 파일 앱에서 **다운로드 완료한 파일**을 눌러주세요.\
-(zip 파일은 한 번 클릭하면 자동으로 압축이 해제됩니다)\
+(zip 파일은 한 번 클릭하면 자동으로 압축이 해제됩니다.)\
 우측 상단의 **\[⬆️]** 공유 버튼을 누른 후, 사용 중인 **\[필기 앱 아이콘]**&#xC744; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/dl-ipad-03.png" alt="파일 앱 다운로드 폴더와 압축 해제된 폴더"><figcaption></figcaption></figure>
@@ -42,7 +42,7 @@ icon: file-arrow-down
 {% step %}
 **불러오기**
 
-굿노트는 **새로운 문서로 불러오기**, 노타빌리티는 **새로운 노트로 가져오기**를 누르면 끝이에요.
+굿노트는 **\[새로운 문서로 불러오기]**, 노타빌리티는 **\[새로운 노트로 가져오기]**&#xB97C; 누르면 끝이에요.
 
 <figure><img src="../.gitbook/assets/dl-ipad-04.png" alt="공유 메뉴에서 필기 앱 선택"><figcaption></figcaption></figure>
 {% endstep %}
@@ -63,18 +63,17 @@ icon: file-arrow-down
 {% step %}
 **파일 다운로드**
 
-원하는 파일을 누르고, 우측상단의 **\[...]** 점 3개 버튼을 누른 후, **\[다운로드]**&#xB97C; 눌러주세요.\
-화면 위쪽에 완료 알림이 뜰 때까지 기다려 주세요.
+원하는 파일을 누르고, 우측 상단의 **\[...]** 점 3개 버튼을 누른 후, **\[다운로드]**&#xB97C; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/dl-galaxy-02.png" alt="다운로드 완료 알림"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**파일 앱에서 필기 앱으로 열기**
+**내 파일 앱에서 필기 앱으로 열기**
 
-파일 앱에서 **다운로드 완료한 파일**을 눌러주세요.\
+내 파일 앱에서 **다운로드 완료한 파일**을 눌러주세요.\
 (zip 파일은 한 번 클릭하면 자동으로 압축이 해제됩니다)\
-우측 상단의 **\[⬆️]** 공유 버튼을 누른 후, 사용 중인 **\[필기 앱 아이콘]**&#xC744; 눌러주세요.
+우측 상단의 **\[...]** 점 3개 버튼을 누른 후, **\[다른 앱에서 열기]**&#xB97C; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/dl-galaxy-03.png" alt="내 파일 앱의 압축 풀기"><figcaption></figcaption></figure>
 {% endstep %}
@@ -82,8 +81,8 @@ icon: file-arrow-down
 {% step %}
 **필기 앱으로 열기**
 
-압축을 푼 폴더에서 파일을 누르고 **연결 앱(다른 앱으로 열기)** 에서 필기 앱을 선택해 주세요.\
-또는 필기 앱 안에서 **가져오기**로 파일을 선택해도 돼요.
+사용 중인 **\[필기 앱 아이콘]**&#xC744; 눌러주세요.\
+삼성 노트의 경우 **\[노트에 추가]**&#xB97C; 꼭 눌러주세요.
 
 <figure><img src="../.gitbook/assets/dl-galaxy-04.png" alt="연결 앱 목록에서 필기 앱 선택"><figcaption></figcaption></figure>
 {% endstep %}

@@ -5,29 +5,30 @@ icon: link
 
 # 하이퍼링크 사용법
 
-굿노트는 **필기 모드에서는 링크가 눌리지 않아요.** 페이지를 이동할 때는 읽기 전용 모드로 바꿔 주세요.
+굿노트는 **필기 모드에서는 링크가 눌리지 않습니다.** 페이지를 이동할 때는 읽기 전용 모드로 바꿔 주세요.
 
 {% stepper %}
 {% step %}
 **읽기 전용 모드 켜기**
 
-오른쪽 위 **연필 아이콘(✏️)** 을 눌러 **읽기 전용 모드**로 바꿔주세요. 도구 막대가 사라지면 켜진 상태예요.
+왼쪽 위 **노트 아이콘**을 눌러 **읽기 전용 모드**로 바꿔주세요. 도구 막대가 사라지면 켜진 상태예요.
 
 <figure><img src="../.gitbook/assets/goodnotes-hyperlink-01.png" alt="읽기 전용 모드 전환 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**링크 눌러 이동**
+**링크를 눌러 이동**
 
-월간·주간 탭이나 목차의 날짜를 누르면 해당 페이지로 바로 이동해요.
+하이퍼링크 버튼이 위치한 곳을 누르면 페이지 이동이 가능합니다.
 
 <figure><img src="../.gitbook/assets/goodnotes-hyperlink-02.png" alt="탭을 눌러 페이지 이동"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**다시 필기 모드로**
+**읽기 전용 모드 없이 하이퍼링크 사용하는 법**
 
-이동한 뒤 **연필 아이콘**을 다시 눌러 필기 모드로 돌아와 기록해 주세요.
+1. 필기 모드에서 하이퍼링크 버튼을 꾹 누르고, \[링크 열기]를 누르기
+2. 애플펜슬 없이 손가락으로 하이퍼링크 버튼 클릭하기
 
 <figure><img src="../.gitbook/assets/goodnotes-hyperlink-03.png" alt="필기 모드 전환"><figcaption></figcaption></figure>
 {% endstep %}
