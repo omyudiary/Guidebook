@@ -3,9 +3,9 @@ description: 노트쉘프에서 오뮤다이어리 노트를 사용하는 방법
 icon: books
 ---
 
-# 노트쉘프 (Noteshelf)
+# 노트쉘프 (Noteshelf 3)
 
-**지원 기기** · 아이패드 · 갤럭시탭 (Noteshelf 3 기준)
+**지원 기기** · 아이패드 · 갤럭시탭 (노트쉘프 3 기준)
 
 노트쉘프는 아이패드와 갤럭시탭에서 모두 사용할 수 있는 필기 앱입니다.\
 하이퍼링크는 **읽기 전용 모드**에서 이동합니다.
@@ -29,6 +29,11 @@ icon: books
 <figure><img src="../.gitbook/assets/noteshelf-import-02.png" alt="공유 메뉴의 노트쉘프"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+**노트쉘프 3** 기준 안내입니다.\
+노트쉘프 1(이전 버전)은 메뉴 위치와 아이콘 모양이 다를 수 있습니다.
+{% endhint %}
 
 ## 기능별 가이드
 

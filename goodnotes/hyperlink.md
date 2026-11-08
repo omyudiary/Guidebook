@@ -35,7 +35,3 @@ icon: link
 <figure><img src="../.gitbook/assets/goodnotes-hyperlink-03.png" alt="필기 모드에서 링크 열기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-{% hint style="info" %}
-오른쪽 위 **\[⋯]** 더보기 → **\[스크롤 방향]**&#xC744; **가로**로 설정하면 종이 노트처럼 한 장씩 넘길 수 있습니다.
-{% endhint %}

@@ -5,6 +5,11 @@ icon: palette
 
 # 노트팔레트 사용하는 법
 
+{% hint style="info" %}
+**노트쉘프 3** 기준 안내입니다.\
+노트쉘프 1(이전 버전)은 메뉴 위치와 아이콘 모양이 다를 수 있습니다.
+{% endhint %}
+
 {% hint style="warning" %}
 **노트팔레트(NOTE PALETTE)가 포함된 제품에만 해당됩니다.**\
 예) 올라운드 노트 · 올데이 언어노트 · 유어컬러 언어노트 · 워크윗미 노트
@@ -17,7 +22,7 @@ icon: palette
 {% step %}
 **원하는 속지 찾기**
 
-**\[페이지 목록(책 모양)]** 아이콘을 열고 노트팔레트의 원하는 속지를 찾아주세요.
+**\[페이지 목록(사각형 4개 모양)]** 아이콘을 열고 노트팔레트의 원하는 속지를 찾아주세요.
 
 <figure><img src="../.gitbook/assets/noteshelf-note-palette-01.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
 {% endstep %}
@@ -25,7 +30,7 @@ icon: palette
 {% step %}
 **속지 복제**
 
-**\[편집]**&#xC744; 누르고 해당 페이지를 선택한 뒤 **\[복제]**&#xB97C; 눌러주세요.
+목록 위쪽의 **\[✓]** 체크 아이콘을 누르고 해당 페이지를 선택한 뒤 **\[복제]**&#xB97C; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/noteshelf-note-palette-02.png" alt="페이지 복제"><figcaption></figcaption></figure>
 {% endstep %}

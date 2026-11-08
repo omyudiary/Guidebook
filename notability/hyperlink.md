@@ -15,9 +15,9 @@ icon: link
 {% endstep %}
 
 {% step %}
-**페이지 넘김 방향 설정**
+**한 장씩 넘겨보기 설정**
 
-오른쪽 위 **\[⋯]** 더보기 → **\[스크롤 방향]**&#xC5D0;서 **\[가로]**&#xB97C; 선택하면 한 장씩 넘겨볼 수 있어요.
+**\[보기 설정]** → **\[싱글 페이지]**&#xB97C; 선택하면 종이 노트처럼 한 장씩 넘겨볼 수 있어요.
 
 <figure><img src="../.gitbook/assets/notability-hyperlink-02.png" alt="스크롤 방향 설정"><figcaption></figcaption></figure>
 {% endstep %}

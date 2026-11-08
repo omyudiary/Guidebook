@@ -31,18 +31,18 @@ icon: note-sticky
 {% step %}
 **이미지 삽입**
 
-도구 막대의 **\[이미지]**&#xB97C; 누르고 저장해 둔 PNG 스티커를 선택해 주세요.
+도구 막대의 **\[사진]** 아이콘 → **\[사진 보관함]**&#xC744; 누르고, 저장해 둔 PNG 스티커를 선택해 주세요.
 
-<figure><img src="../.gitbook/assets/flexcil-sticker-03.png" alt="이미지 삽입"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/flexcil-sticker-03.png" alt="사진 아이콘 → 사진 보관함"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **필요한 부분만 자르기**
 
-이미지를 누르고 **\[자르기]**&#xB97C; 선택해 주세요.\
-**\[자동 자르기]**&#xB97C; 사용하면 원하는 부분을 한 번 눌러 깔끔하게 잘라낼 수 있어요.
+이미지를 누르고 **\[자르기]** 아이콘 → **\[자유형 자르기]** → **\[자동 자르기]**&#xB97C; 눌러주세요.\
+원하는 부분을 한 번 누르면 깔끔하게 잘라낼 수 있어요.
 
-<figure><img src="../.gitbook/assets/flexcil-sticker-04.png" alt="자동 자르기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/flexcil-sticker-04.png" alt="자유형 자르기 → 자동 자르기"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

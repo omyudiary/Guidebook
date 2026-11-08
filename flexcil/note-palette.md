@@ -17,7 +17,7 @@ icon: palette
 {% step %}
 **원하는 속지로 이동**
 
-**보기 모드**에서 노트팔레트의 원하는 속지를 눌러 이동해 주세요.
+**읽기 전용 모드**에서 노트팔레트의 원하는 속지를 눌러 이동해 주세요.
 
 <figure><img src="../.gitbook/assets/flexcil-note-palette-01.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
 {% endstep %}
@@ -25,7 +25,7 @@ icon: palette
 {% step %}
 **속지 복사**
 
-**\[페이지 보기]**&#xC5D0;서 해당 페이지를 선택하고 **\[복사]**&#xB97C; 눌러주세요.
+왼쪽 위 **\[목록(사각형 4개 모양)]** 아이콘 → **\[페이지 탐색]**&#xC5D0;서 해당 페이지를 선택하고 **\[복사]** 아이콘을 눌러주세요.
 
 <figure><img src="../.gitbook/assets/flexcil-note-palette-02.png" alt="페이지 복사"><figcaption></figcaption></figure>
 {% endstep %}
@@ -33,7 +33,7 @@ icon: palette
 {% step %}
 **바인더에 붙여넣기**
 
-바인더의 원하는 위치를 선택하고 **\[붙여넣기]**&#xB97C; 눌러주세요.
+바인더의 원하는 위치에 있는 **\[+]** 버튼을 누르고 **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/flexcil-note-palette-03.png" alt="바인더 위치에 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}

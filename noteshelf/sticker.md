@@ -5,6 +5,11 @@ icon: note-sticky
 
 # 스티커 사용법
 
+{% hint style="info" %}
+**노트쉘프 3** 기준 안내입니다.\
+노트쉘프 1(이전 버전)은 메뉴 위치와 아이콘 모양이 다를 수 있습니다.
+{% endhint %}
+
 ## 컷팅 스티커북
 
 {% stepper %}
@@ -29,19 +34,19 @@ icon: note-sticky
 
 {% stepper %}
 {% step %}
-**사진 삽입**
+**이미지 삽입**
 
-**\[+]** → **\[사진]**&#xC5D0;서 저장해 둔 PNG 스티커를 선택해 주세요.
+**\[+]** → **\[이미지]**&#xC5D0;서 저장해 둔 PNG 스티커를 선택해 주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-sticker-03.png" alt="사진 삽입"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/noteshelf-sticker-03.png" alt="이미지 삽입"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **필요한 부분만 자르기**
 
-삽입한 이미지를 누르고 **\[편집]** → **\[가위]** 아이콘으로 필요한 영역을 그린 뒤 **\[완료]**&#xB97C; 눌러주세요.
+삽입한 이미지를 누르고 **\[편집]** → **\[올가미]** 아이콘으로 필요한 영역을 그린 뒤 **\[완료]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-sticker-04.png" alt="가위로 자르기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/noteshelf-sticker-04.png" alt="올가미 아이콘으로 자르기"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
