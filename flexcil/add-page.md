@@ -1,5 +1,5 @@
 ---
-description: 필요한 속지를 복사해서 늘려요
+description: 필요한 속지를 복사해 추가하는 방법입니다.
 icon: file-circle-plus
 ---
 
@@ -7,26 +7,26 @@ icon: file-circle-plus
 
 {% stepper %}
 {% step %}
-**페이지 편집 열기**
+**페이지 탐색 열기**
 
-**페이지 보기(썸네일)** 를 눌러 페이지 편집 화면을 열어주세요.
+왼쪽 위 **\[목록(사각형 4개 모양)]** 아이콘 → **\[페이지 탐색]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/flexcil-add-page-01.png" alt="페이지 편집 화면"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/flexcil-add-page-01.png" alt="목록 아이콘 → 페이지 탐색"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**복사 · 복제**
+**페이지 복사**
 
-추가할 페이지를 선택하고 **복사**(또는 **복제**)를 눌러주세요.
+추가할 페이지를 선택하고 **\[복사]** 아이콘을 눌러주세요.
 
-<figure><img src="../.gitbook/assets/flexcil-add-page-02.png" alt="페이지 복사"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/flexcil-add-page-02.png" alt="페이지 선택 후 복사"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **붙여넣기**
 
-넣고 싶은 위치를 선택하고 **붙여넣기**를 눌러주세요.
+넣고 싶은 위치에 있는 **\[+]** 버튼을 누르고 **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/flexcil-add-page-03.png" alt="붙여넣기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/flexcil-add-page-03.png" alt="+ 버튼 → 페이지 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
