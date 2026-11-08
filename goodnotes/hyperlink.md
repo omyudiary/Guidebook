@@ -11,7 +11,7 @@ icon: link
 {% step %}
 **읽기 전용 모드 켜기**
 
-왼쪽 위 **노트 아이콘**을 눌러 **읽기 전용 모드**로 바꿔주세요. 도구 막대가 사라지면 켜진 상태예요.
+왼쪽 위 **\[노트 아이콘]**&#xC744; 눌러 **읽기 전용 모드**로 바꿔주세요. 도구 막대가 사라지면 켜진 상태예요.
 
 <figure><img src="../.gitbook/assets/goodnotes-hyperlink-01.png" alt="읽기 전용 모드 전환 버튼"><figcaption></figcaption></figure>
 {% endstep %}
@@ -27,8 +27,8 @@ icon: link
 {% step %}
 **읽기 전용 모드 없이 하이퍼링크 사용하는 법**
 
-1. 필기 모드에서 하이퍼링크 버튼을 꾹 누르고, \[링크 열기]를 누르기
-2. 애플펜슬 없이 손가락으로 하이퍼링크 버튼 클릭하기
+1. 필기 모드에서 하이퍼링크 버튼을 꾹 누르고, **\[링크 열기]**&#xB97C; 누르기
+2. 애플펜슬 없이 **손가락으로 하이퍼링크 버튼 클릭**하기
 
 <figure><img src="../.gitbook/assets/goodnotes-hyperlink-03.png" alt="필기 모드 전환"><figcaption></figcaption></figure>
 {% endstep %}
