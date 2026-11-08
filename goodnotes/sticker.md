@@ -8,15 +8,9 @@ icon: note-sticky
 굿노트에서 스티커를 사용하는 방법은 **3가지**입니다.\
 아래 버튼을 누르면 원하는 방법으로 바로 이동할 수 있습니다.
 
-| 방법 | 이럴 때 추천합니다 |
-| --- | --- |
-| **① 컷팅 스티커북** | 스티커북에서 복사·붙여넣기로 하나씩 붙일 때 |
-| **② 화면 분할(Split View)** | 스티커북을 옆에 띄워 두고 여러 개를 드래그로 붙일 때 |
-| **③ PNG 스티커 등록** | 자주 쓰는 스티커를 그래픽 도구에 저장해 두고 쓸 때 |
+<a href="sticker.md#cutting" class="button secondary">① 컷팅 스티커북</a> <a href="sticker.md#split-view" class="button secondary">② 화면 분할로 사용</a> <a href="sticker.md#png" class="button secondary">③ 굿노트에 PNG 스티커 등록</a>
 
-<a href="#cutting" class="button primary">① 컷팅 스티커북</a> <a href="#split-view" class="button primary">② 화면 분할</a> <a href="#png" class="button primary">③ PNG 스티커 등록</a>
-
-## ① 컷팅 스티커북 <a href="#cutting" id="cutting"></a>
+## 컷팅 스티커북 <a href="#cutting" id="cutting"></a>
 
 {% stepper %}
 {% step %}
@@ -42,7 +36,7 @@ icon: note-sticky
 올가미 도구 아이콘을 한 번 더 눌러 설정을 열고 **이미지** 항목을 켜 주시기 바랍니다.
 {% endhint %}
 
-## ② 화면 분할(Split View)로 스티커북 쓰기 <a href="#split-view" id="split-view"></a>
+## 화면 분할(Split View) 사용하기 <a href="#split-view" id="split-view"></a>
 
 스티커북과 노트를 한 화면에 나란히 띄우면 복사·붙여넣기 없이 **드래그 한 번**으로 스티커를 옮길 수 있습니다.\
 스티커를 여러 개 붙일 때 특히 편리합니다.
@@ -92,17 +86,7 @@ icon: note-sticky
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
-**다른 방법으로 열기**\
-탭 바에서 스티커북 **제목을 누르고 → \[새로운 윈도우에서 열기]**&#xB97C; 선택해도 스티커북이 새 창으로 열립니다.
-{% endhint %}
-
-{% hint style="warning" %}
-* 스티커가 끌려오지 않으면 위의 **스티커가 선택되지 않아요!** 안내대로 올가미 도구의 **이미지** 항목을 켜 주시기 바랍니다.
-* iPadOS 버전과 멀티태스킹 설정(스테이지 매니저·창 모드)에 따라 화면 모양이 조금 다를 수 있습니다.
-{% endhint %}
-
-## ③ 굿노트에 PNG 스티커 등록하기 <a href="#png" id="png"></a>
+## 굿노트에 PNG 스티커 등록하기 <a href="#png" id="png"></a>
 
 자주 쓰는 스티커는 **그래픽 도구**에 컬렉션으로 등록해 두면 어떤 노트에서든 바로 꺼내 쓸 수 있습니다.
 
