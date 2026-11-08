@@ -1,9 +1,8 @@
 ---
 description: 오뮤다이어리를 처음 사용하시는 분들을 위한 공식 가이드북입니다😊
-icon: star-shooting
 ---
 
-# Welcome to omyudiary
+# 🍒 Welcome to omyudiary
 
 오뮤다이어리를 선택해 주셔서 감사합니다.\
 이 가이드북에는 상품 다운로드 방법부터 필기 앱 사용법, 폰트 설치 방법까지 디지털 노트를 사용하는 데 필요한 모든 안내가 담겨 있어요.\

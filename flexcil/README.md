@@ -1,9 +1,8 @@
 ---
 description: 플랙슬에서 오뮤다이어리 노트를 사용하는 방법을 안내합니다.
-icon: file-pdf
 ---
 
-# 플랙슬 (Flexcil)
+# 📚 플랙슬 (Flexcil)
 
 **지원 기기** · 아이패드 · 갤럭시탭
 

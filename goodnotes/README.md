@@ -1,9 +1,8 @@
 ---
 description: 굿노트에서 오뮤다이어리 노트를 사용하는 방법을 안내합니다.
-icon: pen-nib
 ---
 
-# 굿노트 (Goodnotes)
+# 📝 굿노트 (Goodnotes)
 
 **지원 기기** · 아이패드 · 아이폰 (Goodnotes 6 기준)
 

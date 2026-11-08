@@ -1,9 +1,8 @@
 ---
 description: 노타빌리티에서 오뮤다이어리 노트를 사용하는 방법을 안내합니다.
-icon: book
 ---
 
-# 노타빌리티 (Notability)
+# ✒️ 노타빌리티 (Notability)
 
 **지원 기기** · 아이패드 · 아이폰
 

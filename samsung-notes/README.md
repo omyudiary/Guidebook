@@ -1,9 +1,8 @@
 ---
 description: 삼성노트에서 오뮤다이어리 노트를 사용하는 방법을 안내합니다.
-icon: tablet-screen-button
 ---
 
-# 삼성노트 (Samsung Notes)
+# 📄 삼성노트 (Samsung Notes)
 
 **지원 기기** · 갤럭시탭 · 갤럭시폰
 
