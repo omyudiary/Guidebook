@@ -54,7 +54,7 @@ icon: note-sticky
 상단 탭 바에 열린 **스티커북 탭을 길게 누른 채** 화면 왼쪽이나 오른쪽 끝으로 끌어다 놓아주세요.\
 스티커북이 새 창으로 열리면서 노트와 나란히 보여요.
 
-<figure><img src="../.gitbook/assets/goodnotes-splitview-01.png" alt="스티커북을 화면 끝으로 끌어다 놓기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/goodnotes-splitview-01.gif" alt="스티커북을 화면 끝으로 끌어다 놓기"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -64,7 +64,7 @@ icon: note-sticky
 선택된 스티커를 **길게 누른 채** 노트 창으로 끌어다 놓으면 바로 붙어요.\
 붙인 뒤에는 크기와 위치를 자유롭게 조절할 수 있어요.
 
-<figure><img src="../.gitbook/assets/goodnotes-splitview-02.png" alt="올가미로 선택한 스티커를 노트로 드래그"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/goodnotes-splitview-02.gif" alt="올가미로 선택한 스티커를 노트로 드래그"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -73,7 +73,7 @@ icon: note-sticky
 다 붙였다면 가운데 구분선을 **스티커북 쪽 화면 끝까지** 밀어주세요.\
 노트만 전체 화면으로 돌아와요.
 
-<figure><img src="../.gitbook/assets/goodnotes-splitview-03.png" alt="분할 화면 닫기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/goodnotes-splitview-03.gif" alt="분할 화면 닫기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
