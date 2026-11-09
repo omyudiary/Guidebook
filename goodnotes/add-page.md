@@ -9,21 +9,20 @@ icon: file-circle-plus
 
 {% stepper %}
 {% step %}
-**페이지 선택 후 복사**
+**속지 복사**
 
-왼쪽 위 **사이드바**를 열고 **\[페이지]** 탭에서 **\[페이지 선택]**&#xC744; 눌러주세요.\
-추가하고 싶은 속지를 선택한 뒤 **\[복사]**&#xB97C; 눌러주세요.
+왼쪽 위 **사이드바**를 열고 **\[페이지]** 탭에서 추가하고 싶은 속지를 선택한 뒤 **\[복사하기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-add-page-01.png" alt="사이드바에서 페이지 선택 후 복사"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/goodnotes-add-page-01.png" alt="사이드바에서 속지 선택 후 복사하기"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **원하는 위치에 붙여넣기**
 
-넣고 싶은 위치의 페이지를 연 뒤 상단 오른쪽의 **\[페이지 추가(+)]** 아이콘을 눌러주세요.\
-**\[이전]**, **\[다음]**, **\[마지막 페이지]** 중 위치를 고르고 **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.
+넣고 싶은 위치의 페이지를 연 뒤 **\[⌄]** 아래 화살표 버튼 → **\[뒷 페이지 추가]** → **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.\
+지금 보고 있는 페이지 바로 뒤에 복사한 속지가 추가돼요.
 
-<figure><img src="../.gitbook/assets/goodnotes-add-page-02.png" alt="페이지 추가 메뉴의 페이지 붙여넣기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/goodnotes-add-page-02.png" alt="뒷 페이지 추가 → 페이지 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
