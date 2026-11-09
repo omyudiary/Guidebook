@@ -15,7 +15,7 @@ icon: link
 왼쪽 위 **\[노트 아이콘]**&#xC744; 눌러 **읽기 전용 모드**로 바꿔주세요.\
 도구 막대가 사라지면 켜진 상태예요.
 
-<figure><img src="../.gitbook/assets/goodnotes-hyperlink-01.png" alt="읽기 전용 모드 전환 버튼"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-hyperlink-01.png" alt="읽기 전용 모드 전환 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -23,7 +23,7 @@ icon: link
 
 하이퍼링크 버튼이 있는 곳을 누르면 해당 페이지로 이동해요.
 
-<figure><img src="../.gitbook/assets/goodnotes-hyperlink-02.png" alt="탭을 눌러 페이지 이동"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-hyperlink-02.gif" alt="탭을 눌러 페이지 이동"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -32,6 +32,6 @@ icon: link
 1. 필기 모드에서 하이퍼링크 버튼을 꾹 누르고, **\[링크 열기]**&#xB97C; 눌러주세요.
 2. 애플펜슬 대신 **손가락으로 하이퍼링크 버튼**을 눌러주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-hyperlink-03.png" alt="필기 모드에서 링크 열기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-hyperlink-03.png" alt="필기 모드에서 링크 열기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

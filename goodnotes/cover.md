@@ -27,7 +27,7 @@ icon: image
 
 표지(1페이지)를 연 상태에서 **\[⌄]** 아래 화살표 버튼을 누르고 **\[앞 페이지 추가]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-cover-02.png" alt="아래 화살표 메뉴의 앞 페이지 추가"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-cover-02.png" alt="아래 화살표 메뉴의 앞 페이지 추가"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -36,7 +36,7 @@ icon: image
 표지가 **이미지(PNG·JPG)** 파일이라면 **\[이미지]**&#xB97C; 눌러 사진 앱에서 선택해 주세요.\
 **PDF** 파일이라면 **\[불러오기]**&#xB97C; 눌러 파일 앱에서 선택해 주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-cover-03.png" alt="이미지 또는 불러오기로 표지 선택"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-cover-03.png" alt="이미지 또는 불러오기로 표지 선택"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -44,6 +44,6 @@ icon: image
 
 사이드바에서 기존 표지를 선택한 뒤 **\[휴지통으로 이동]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-cover-04.png" alt="기존 표지 휴지통으로 이동"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-cover-04.png" alt="기존 표지 휴지통으로 이동"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

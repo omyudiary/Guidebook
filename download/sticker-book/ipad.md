@@ -11,7 +11,7 @@ icon: apple
 
 파일 다운로드 방법과 동일하게 다운로드를 진행해 주세요.
 
-<figure><img src="../../.gitbook/assets/sb-ipad-01.png" alt="사파리 다운로드 화면"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shot-sb-ipad-01.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -22,15 +22,15 @@ icon: apple
 우측 상단의 **\[⬆️]** 공유 버튼을 누른 후, 사용 중인 **\[필기 앱 아이콘]**&#xC744; 눌러주세요.\
 사용 중인 필기 앱이 없으면 **\[PNG]** 폴더를 사용해 주세요. (자세한 내용은 스티커 사용법 참고)
 
-<figure><img src="../../.gitbook/assets/sb-ipad-02.png" alt="압축 해제된 스티커북 폴더"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shot-sb-ipad-02.png" alt="공유 메뉴의 필기 앱 아이콘"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **불러오기**
 
-굿노트는 **\[새로운 문서로 불러오기]**, 노타빌리티는 **\[새로운 노트로 가져오기]**&#xB97C; 누르면 끝이에요.
+굿노트는 저장할 위치를 확인한 뒤 **\[‘폴더 이름’에 불러오기]**, 노타빌리티는 **\[새로운 노트로 가져오기]**&#xB97C; 누르면 끝이에요.
 
-<figure><img src="../../.gitbook/assets/sb-ipad-03.png" alt="앱 이름이 붙은 스티커 파일 목록"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shot-sb-ipad-03.png" alt="굿노트 불러오기 창의 불러오기 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
