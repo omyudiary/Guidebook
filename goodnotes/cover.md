@@ -16,7 +16,6 @@ icon: image
 
 왼쪽 위 **사이드바**를 열고, 원하는 표지 페이지를 **길게 누른 채 맨 앞으로** 옮겨주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-cover-01.png" alt="사이드바에서 표지를 맨 앞으로 이동"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

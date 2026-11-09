@@ -44,15 +44,15 @@ zip 파일이 아니라면 저장하지 않고 사용 중인 필기 앱으로 �
 (zip 파일은 한 번 클릭하면 자동으로 압축이 해제됩니다.)\
 우측 상단의 **\[⬆️]** 공유 버튼을 누른 후, 사용 중인 **\[필기 앱 아이콘]**&#xC744; 눌러주세요.
 
-<figure><img src="../../.gitbook/assets/dl-ipad-04.png" alt="파일 앱 다운로드 폴더와 압축 해제된 폴더"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dl-ipad-04.png" alt="파일을 열고 우측 상단 공유 버튼 누르기"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **불러오기**
 
-굿노트는 **\[새로운 문서로 불러오기]**, 노타빌리티는 **\[새로운 노트로 가져오기]**&#xB97C; 누르면 끝이에요.
+굿노트는 저장할 위치를 확인한 뒤 **\[‘폴더 이름’에 불러오기]**, 노타빌리티는 **\[새로운 노트로 가져오기]**&#xB97C; 누르면 끝이에요.
 
-<figure><img src="../../.gitbook/assets/dl-ipad-05.png" alt="공유 메뉴에서 필기 앱 선택"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dl-ipad-05.png" alt="굿노트 불러오기 창의 불러오기 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
