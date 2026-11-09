@@ -19,7 +19,7 @@ icon: palette
 
 **읽기 전용 모드**에서 노트팔레트의 원하는 속지를 눌러 이동해 주세요.
 
-<figure><img src="../.gitbook/assets/shot-goodnotes-note-palette-01.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-note-palette-01-v2.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -27,7 +27,7 @@ icon: palette
 
 오른쪽 위 **\[...]** 더보기 버튼을 누르고 **\[페이지 복사]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-goodnotes-note-palette-02.png" alt="더보기 메뉴의 페이지 복사"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-note-palette-02-v2.png" alt="더보기 메뉴의 페이지 복사"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -35,7 +35,7 @@ icon: palette
 
 원하는 바인더 위치로 이동한 뒤, 오른쪽 위 **\[...]** 더보기 버튼 → **\[페이지 추가]** → **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-goodnotes-note-palette-03.png" alt="더보기 → 페이지 추가 → 페이지 붙여넣기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-note-palette-03-v2.png" alt="더보기 → 페이지 추가 → 페이지 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
