@@ -18,7 +18,7 @@ icon: note-sticky
 
 스티커북을 열고 **\[올가미 도구]**&#xB85C; 원하는 스티커를 클릭한 뒤, **\[...]** 더보기 버튼을 눌러 **\[복사하기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-sticker-01.png" alt="올가미로 스티커 선택"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-sticker-01.png" alt="올가미로 스티커 선택"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -26,7 +26,7 @@ icon: note-sticky
 
 원하는 영역으로 돌아가 빈 곳을 길게 누르고 **\[붙여넣기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-sticker-02.png" alt="복사 후 붙여넣기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-sticker-02.png" alt="복사 후 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -87,7 +87,7 @@ icon: note-sticky
 
 상단 도구 막대에서 **그래픽(스마일 모양)** 도구를 누르고 아래쪽 끝에 있는 **\[+]**&#xC744; 눌러 새로운 컬렉션을 만들어 주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-sticker-03.png" alt="요소 도구와 새 컬렉션"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-sticker-03.png" alt="그래픽 도구와 새 컬렉션 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -96,7 +96,7 @@ icon: note-sticky
 파일 앱과 굿노트를 **화면 분할**로 나란히 열어주세요.\
 파일 앱에서 다운로드한 PNG 스티커를 **전체 선택**한 뒤, 새로 만든 컬렉션 안으로 끌어다 놓으면 한 번에 등록돼요.
 
-<figure><img src="../.gitbook/assets/goodnotes-sticker-04.png" alt="컬렉션에 PNG 스티커 추가"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-sticker-04.gif" alt="파일 앱에서 스티커를 컬렉션으로 끌어다 놓기"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -104,6 +104,6 @@ icon: note-sticky
 
 그래픽 도구에서 스티커를 누르면 노트에 붙어요. 크기와 위치를 조절해 사용하세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-sticker-05.png" alt="요소에서 스티커 붙이기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-sticker-05.png" alt="그래픽 도구에서 스티커 붙이기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
