@@ -13,11 +13,11 @@ description: 굿노트에서 오뮤다이어리 노트를 사용하는 방법을
 
 {% stepper %}
 {% step %}
-**굿노트에서 가져오기**
+**문서 화면에서 불러오기**
 
-**\[문서]** 화면에서 **\[+ 새로 만들기]** → **\[가져오기]**&#xB97C; 누른 후, 압축을 푼 PDF 파일을 선택해 주세요.
+**\[문서]** 화면에서 **\[+ 신규]** → **\[불러오기]**&#xB97C; 누른 후, 다운로드 받은 PDF 파일을 선택해 주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-import-01.png" alt="굿노트 새로 만들기 → 가져오기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-import-01.png" alt="문서 화면의 신규 → 불러오기"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -26,7 +26,7 @@ description: 굿노트에서 오뮤다이어리 노트를 사용하는 방법을
 파일 앱에서 PDF 파일을 누르고, 우측 상단의 **\[⬆️]** 공유 버튼 → **\[굿노트 아이콘]**&#xC744; 눌러주세요.\
 **\[새로운 문서로 불러오기]**&#xB97C; 누르면 끝이에요.
 
-<figure><img src="../.gitbook/assets/goodnotes-import-02.png" alt="공유 메뉴의 새로운 문서로 불러오기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-goodnotes-import-02.png" alt="공유 메뉴의 굿노트 아이콘"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
