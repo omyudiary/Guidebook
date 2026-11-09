@@ -25,16 +25,20 @@ icon: palette
 {% step %}
 **속지 복사**
 
-왼쪽 위 **사이드바**의 **\[페이지]** 탭에서 **\[페이지 선택]** → 해당 속지 선택 → **\[복사]**&#xB97C; 눌러주세요.
+오른쪽 위 **\[...]** 더보기 버튼을 누르고 **\[페이지 복사]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-note-palette-02.png" alt="사이드바에서 속지 복사"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/goodnotes-note-palette-02.png" alt="더보기 메뉴의 페이지 복사"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **바인더에 붙여넣기**
 
-바인더의 원하는 위치로 이동한 뒤 **\[페이지 추가(+)]** → 위치 선택 → **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.
+원하는 바인더 위치로 이동한 뒤, 오른쪽 위 **\[...]** 더보기 버튼 → **\[페이지 추가]** → **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/goodnotes-note-palette-03.png" alt="바인더 위치에 붙여넣기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/goodnotes-note-palette-03.png" alt="더보기 → 페이지 추가 → 페이지 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+{% hint style="success" %}
+**TIP** · [페이지 추가하는 법](add-page.md)에서 다른 방법으로 페이지를 붙여넣는 방법도 확인하실 수 있습니다.
+{% endhint %}

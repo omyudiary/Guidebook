@@ -21,11 +21,18 @@ description: 구매한 디지털 파일을 기기에 저장하고 필기 앱으�
 {% step %}
 **파일 다운로드**
 
-원하는 파일을 누르고, 우측상단의 **\[...]** 더보기 버튼을 누른 후, **\[다운로드]**&#xB97C; 눌러주세요.\
-팝업창이 열리면 **\[파일에 저장]**&#xC744; 눌러주세요.\
-(zip 파일이 아닌 경우, 저장을 생략하고 사용 중인 필기앱으로 바로 연결하셔도 됩니다)
+원하는 파일을 누른 뒤, 우측 상단의 **\[...]** 더보기 버튼 → **\[다운로드]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/dl-ipad-02.png" alt="다운로드 버튼과 확인 창"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dl-ipad-02.png" alt="더보기 버튼의 다운로드 메뉴"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**파일 앱에 저장**
+
+팝업창이 열리면 **\[파일에 저장]**&#xC744; 눌러주세요.\
+zip 파일이 아니라면 저장하지 않고 사용 중인 필기 앱으로 바로 열어도 돼요.
+
+<figure><img src="../.gitbook/assets/dl-ipad-03.png" alt="팝업창의 파일에 저장"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -35,7 +42,7 @@ description: 구매한 디지털 파일을 기기에 저장하고 필기 앱으�
 (zip 파일은 한 번 클릭하면 자동으로 압축이 해제됩니다.)\
 우측 상단의 **\[⬆️]** 공유 버튼을 누른 후, 사용 중인 **\[필기 앱 아이콘]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/dl-ipad-03.png" alt="파일 앱 다운로드 폴더와 압축 해제된 폴더"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dl-ipad-04.png" alt="파일 앱 다운로드 폴더와 압축 해제된 폴더"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -43,7 +50,7 @@ description: 구매한 디지털 파일을 기기에 저장하고 필기 앱으�
 
 굿노트는 **\[새로운 문서로 불러오기]**, 노타빌리티는 **\[새로운 노트로 가져오기]**&#xB97C; 누르면 끝이에요.
 
-<figure><img src="../.gitbook/assets/dl-ipad-04.png" alt="공유 메뉴에서 필기 앱 선택"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dl-ipad-05.png" alt="공유 메뉴에서 필기 앱 선택"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 {% endtab %}
