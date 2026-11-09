@@ -36,7 +36,7 @@ icon: link
 {% step %}
 **링크 열기**
 
-필기 모드에서 하이퍼링크 버튼을 꾹 누르고, **\[링크 열기]**&#xB97C; 눌러주세요.
+**필기 모드**에서 하이퍼링크 버튼을 꾹 누르고, **\[링크 열기]**&#xB97C; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/shot-goodnotes-hyperlink-03.png" alt="필기 모드에서 링크 열기"><figcaption></figcaption></figure>
 {% endstep %}
