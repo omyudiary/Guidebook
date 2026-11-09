@@ -19,7 +19,7 @@ icon: file-circle-plus
 {% step %}
 **원하는 위치에 붙여넣기**
 
-넣고 싶은 위치의 페이지를 연 뒤 **\[뒷 페이지 추가]** → **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.\
+넣고 싶은 위치의 페이지를 연 뒤 **\[⌄]** 아래 화살표 버튼 → **\[뒷 페이지 추가]** → **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.\
 지금 보고 있는 페이지 바로 뒤에 복사한 속지가 추가돼요.
 
 <figure><img src="../.gitbook/assets/goodnotes-add-page-02.png" alt="뒷 페이지 추가 → 페이지 붙여넣기"><figcaption></figcaption></figure>
