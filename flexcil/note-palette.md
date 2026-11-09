@@ -17,24 +17,24 @@ icon: palette
 {% step %}
 **원하는 속지로 이동**
 
-**읽기 전용 모드**에서 노트팔레트의 원하는 속지를 눌러 이동해 주세요.
+**제스처 모드**에서 노트팔레트의 원하는 속지를 눌러 이동해 주세요.
 
-<figure><img src="../.gitbook/assets/flexcil-note-palette-01.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-flexcil-note-palette-01.png" alt="제스처 모드에서 노트팔레트 속지 선택"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **속지 복사**
 
-왼쪽 위 **\[목록(사각형 4개 모양)]** 아이콘 → **\[페이지 탐색]**&#xC5D0;서 해당 페이지를 선택하고 **\[복사]** 아이콘을 눌러주세요.
+왼쪽 위 **\[목록(사각형 4개 모양)]** 아이콘을 누르고, 복사할 속지를 선택한 뒤 상단의 **\[복사]** 아이콘을 눌러주세요.
 
-<figure><img src="../.gitbook/assets/flexcil-note-palette-02.png" alt="페이지 복사"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-flexcil-note-palette-02.png" alt="속지 선택 후 상단 복사 아이콘"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **바인더에 붙여넣기**
 
-바인더의 원하는 위치에 있는 **\[+]** 버튼을 누르고 **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.
+바인더의 원하는 위치로 이동한 뒤, 그 위치에 있는 **\[+]** 버튼을 누르고 **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/flexcil-note-palette-03.png" alt="바인더 위치에 붙여넣기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-flexcil-note-palette-03.png" alt="바인더 위치에서 페이지 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
