@@ -22,7 +22,7 @@ description: 스티커북 파일을 저장하고 필기 앱으로 불러오는 �
 
 파일 다운로드 방법과 동일하게 다운로드를 진행해 주세요.
 
-<figure><img src="../.gitbook/assets/shot-sb-ipad-01-v2.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-sb-ipad-01-v3.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
