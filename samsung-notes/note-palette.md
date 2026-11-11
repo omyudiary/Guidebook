@@ -33,7 +33,7 @@ icon: palette
 {% step %}
 #### 바인더에 붙여넣기
 
-바인더의 원하는 위치에서 **\[⋮]** → **\[붙여넣기]**&#xB97C; 눌러주세요.
+원하는 바인더 위치로 이동한 뒤, **\[⋮]** → **\[붙여넣기]**&#xB97C; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/samsung-notes-note-palette-03.png" alt="바인더 위치에 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}

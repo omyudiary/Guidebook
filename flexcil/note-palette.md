@@ -33,7 +33,7 @@ icon: palette
 {% step %}
 #### 바인더에 붙여넣기
 
-바인더의 원하는 위치로 이동한 뒤, 그 위치에 있는 **\[+]** 버튼을 누르고 **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.
+원하는 바인더 위치로 이동한 뒤, 그 위치에 있는 **\[+]** 버튼을 누르고 **\[페이지 붙여넣기]**&#xB97C; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/shot-flexcil-note-palette-03.png" alt="바인더 위치에서 페이지 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}
