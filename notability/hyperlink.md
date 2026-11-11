@@ -17,7 +17,7 @@ icon: link
 
 **\[...]** → **\[보기 설정]** → **\[싱글 페이지]**&#xB97C; 선택하면 종이 노트처럼 한 장씩 넘겨볼 수 있어요.
 
-<figure><img src="../.gitbook/assets/shot-notability-hyperlink-02.png" alt="더보기 → 보기 설정 → 싱글 페이지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-hyperlink-02-v2.png" alt="더보기 → 보기 설정 → 싱글 페이지"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

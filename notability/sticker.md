@@ -20,7 +20,7 @@ icon: note-sticky
 
 스티커북에서 **\[올가미 도구]**&#xB85C; 원하는 스티커를 선택하고 **\[복사 아이콘]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-sticker-01.png" alt="올가미로 선택 후 복사 아이콘"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-sticker-01-v2.png" alt="올가미로 선택 후 복사 아이콘"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -83,7 +83,7 @@ PNG 이미지를 노트에 넣고 필요한 부분만 잘라 스티커처럼 사
 
 상단의 **\[+]** 미디어 버튼 → **\[사진]**&#xC744; 누르고, 저장해 둔 PNG 스티커를 선택해 주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-png-cut-01-v2.png" alt="미디어 버튼 → 사진"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-png-cut-01-v3.png" alt="미디어 버튼 → 사진"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

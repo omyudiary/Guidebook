@@ -23,7 +23,7 @@ icon: image
 표지 노트에서 오른쪽 위 **\[페이지]** 아이콘을 눌러 페이지 목록을 열어주세요.\
 **\[...]**&#xC744; 누르고 표지를 선택한 뒤 **\[복사]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-cover-02.png" alt="페이지 목록에서 표지 복사"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-cover-02-v2.png" alt="페이지 목록에서 표지 복사"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -32,7 +32,7 @@ icon: image
 표지를 바꿀 노트를 열고 같은 방법으로 페이지 목록을 연 뒤 **\[붙이기]**&#xB97C; 눌러주세요.\
 붙인 표지를 **길게 눌러 맨 앞으로 드래그**해 주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-cover-03.png" alt="붙이기 후 맨 앞으로 이동"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-cover-03-v2.png" alt="붙이기 후 맨 앞으로 이동"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -40,6 +40,6 @@ icon: image
 
 기존 표지를 선택하고 **\[삭제]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-cover-04.png" alt="기존 표지 삭제"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-cover-04-v2.png" alt="기존 표지 삭제"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

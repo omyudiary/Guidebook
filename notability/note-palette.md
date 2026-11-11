@@ -19,7 +19,7 @@ icon: palette
 
 노트팔레트에서 원하는 속지를 눌러 이동해 주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-note-palette-01.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-note-palette-01-v2.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -27,7 +27,7 @@ icon: palette
 
 **\[...]**&#xC744; 누르고 복사할 속지를 선택한 뒤 **\[복사]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-note-palette-02.png" alt="더보기 → 복사"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-note-palette-02-v2.png" alt="더보기 → 복사"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -35,6 +35,6 @@ icon: palette
 
 원하는 바인더 위치로 이동한 뒤, **\[...]**&#xC744; 누르고 **\[붙이기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-note-palette-03.png" alt="더보기 → 붙이기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-note-palette-03-v2.png" alt="더보기 → 붙이기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
