@@ -18,7 +18,7 @@ App Store에서 **iFont** 앱을 설치해 주세요.
 {% step %}
 #### 폰트 파일 준비
 
-다운로드한 ZIP 파일을 파일 앱에서 탭해 압축을 풀고, **TTF 또는 OTF 파일**을 확인해 주세요.
+다운로드한 **TTF 또는 OTF 파일**&#xC744; 확인해 주세요.
 
 <figure><img src="../.gitbook/assets/font-ios-02.png" alt="압축 해제된 폰트 파일"><figcaption></figcaption></figure>
 {% endstep %}
