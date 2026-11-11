@@ -1,11 +1,18 @@
 ---
-description: 컷팅 스티커와 PNG 스티커를 붙이는 방법입니다.
+description: 컷팅 스티커북과 PNG 자르기로 스티커를 붙이는 방법입니다.
 icon: note-sticky
 ---
 
 # 스티커 사용법
 
-## 컷팅 스티커북
+삼성노트에서 스티커를 사용하는 방법은 **2가지**입니다.\
+아래 버튼을 누르면 원하는 방법으로 바로 이동할 수 있습니다.
+
+<a href="sticker.md#cutting" class="button secondary">① 컷팅 스티커북</a> <a href="sticker.md#png-cut" class="button secondary">② PNG 잘라서 사용</a>
+
+## 컷팅 스티커북 <a href="#cutting" id="cutting"></a>
+
+컷팅 스티커북에서 원하는 스티커를 복사해 노트에 바로 붙일 수 있습니다.
 
 {% stepper %}
 {% step %}
@@ -25,7 +32,9 @@ icon: note-sticky
 {% endstep %}
 {% endstepper %}
 
-## PNG 스티커
+## PNG 잘라서 사용하기 <a href="#png-cut" id="png-cut"></a>
+
+PNG 이미지를 노트에 넣고 필요한 부분만 잘라 스티커처럼 사용할 수 있습니다.
 
 {% stepper %}
 {% step %}

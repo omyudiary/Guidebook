@@ -9,7 +9,7 @@ icon: image
 {% step %}
 #### 페이지 목록 열기
 
-상단의 **\[목록]** 아이콘을 눌러 페이지 목록을 열고, 기존 표지(1페이지)를 선택해 주세요.
+상단의 **\[목록]** 아이콘을 눌러 페이지 목록을 열고, 기존 표지(첫 번째 속지)를 선택해 주세요.
 
 <figure><img src="../.gitbook/assets/samsung-notes-cover-01.png" alt="페이지 목록"><figcaption></figcaption></figure>
 {% endstep %}

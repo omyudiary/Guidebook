@@ -1,5 +1,5 @@
 ---
-description: PNG 스티커를 붙이고 잘라 쓰는 방법입니다.
+description: 화면 분할, PNG 스티커 등록, PNG 자르기로 스티커를 붙이는 방법입니다.
 icon: note-sticky
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: 목차와 탭을 눌러 원하는 페이지로 이동하는 방법입니다.
+description: 목차와 탭을 눌러 원하는 속지로 이동하는 방법입니다.
 icon: link
 ---
 
 # 하이퍼링크 사용법
 
-굿노트에서 하이퍼링크로 페이지를 이동하는 방법은 **3가지**입니다.\
+굿노트에서 하이퍼링크로 속지를 이동하는 방법은 **3가지**입니다.\
 **필기 모드에서는 링크가 바로 눌리지 않으니**, 아래 버튼을 눌러 편한 방법을 확인해 주시기 바랍니다.
 
 <a href="hyperlink.md#read-only" class="button secondary">① 읽기 전용 모드로 이동</a> <a href="hyperlink.md#long-press" class="button secondary">② 링크를 꾹 눌러 이동</a> <a href="hyperlink.md#finger" class="button secondary">③ 손가락으로 눌러 이동</a>
@@ -25,7 +25,7 @@ icon: link
 {% step %}
 #### 링크를 눌러 이동
 
-하이퍼링크 버튼이 있는 곳을 누르면 해당 페이지로 이동해요.\
+하이퍼링크 버튼이 있는 곳을 누르면 해당 속지로 이동해요.\
 필기할 때는 왼쪽 위 **\[읽기 전용]**&#xC744; 한 번 더 눌러 꺼주세요.
 
 <figure><img src="../.gitbook/assets/shot-goodnotes-hyperlink-02-v2.gif" alt="읽기 전용 모드에서 탭을 눌러 페이지 이동"><figcaption></figcaption></figure>

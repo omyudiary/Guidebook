@@ -15,7 +15,7 @@ icon: palette
 예) 올라운드 노트 · 올데이 언어노트 · 유어컬러 언어노트 · 워크윗미 노트
 {% endhint %}
 
-**노트팔레트**는 여러 가지 속지를 한곳에 모아 둔 페이지입니다.\
+**노트팔레트**는 여러 가지 속지를 한곳에 모아 둔 곳입니다.\
 필요한 속지를 골라 바인더(노트 본문)에 복사해 사용합니다.
 
 {% stepper %}
@@ -30,7 +30,7 @@ icon: palette
 {% step %}
 #### 속지 복제
 
-목록 위쪽의 **\[✓]** 체크 아이콘을 누르고 해당 페이지를 선택한 뒤 **\[복제]**&#xB97C; 눌러주세요.
+목록 위쪽의 **\[✓]** 체크 아이콘을 누르고 해당 속지를 선택한 뒤 **\[복제]**&#xB97C; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/noteshelf-note-palette-02.png" alt="페이지 복제"><figcaption></figcaption></figure>
 {% endstep %}
@@ -38,7 +38,7 @@ icon: palette
 {% step %}
 #### 바인더로 옮기기
 
-복제된 페이지를 **길게 눌러 드래그**해서 바인더의 원하는 위치로 옮겨주세요.
+복제된 속지를 **길게 눌러 드래그**해서 바인더의 원하는 위치로 옮겨주세요.
 
 <figure><img src="../.gitbook/assets/noteshelf-note-palette-03.png" alt="바인더 위치로 드래그"><figcaption></figcaption></figure>
 {% endstep %}

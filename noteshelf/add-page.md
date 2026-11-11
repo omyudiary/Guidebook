@@ -3,7 +3,7 @@ description: 필요한 속지를 복사해 추가하는 방법입니다.
 icon: file-circle-plus
 ---
 
-# 페이지 추가하는 법
+# 속지 추가하는 법
 
 {% hint style="info" %}
 **노트쉘프 3** 기준 안내입니다.\
@@ -20,9 +20,9 @@ icon: file-circle-plus
 {% endstep %}
 
 {% step %}
-#### 페이지 선택
+#### 속지 선택
 
-목록 위쪽의 **\[✓]** 체크 아이콘을 누르고, 추가할 페이지를 선택해 주세요.
+목록 위쪽의 **\[✓]** 체크 아이콘을 누르고, 추가할 속지를 선택해 주세요.
 
 <figure><img src="../.gitbook/assets/noteshelf-add-page-02.png" alt="체크 아이콘으로 페이지 선택"><figcaption></figcaption></figure>
 {% endstep %}
@@ -30,7 +30,7 @@ icon: file-circle-plus
 {% step %}
 #### 복제
 
-**\[복제]**&#xB97C; 누르면 바로 뒤에 같은 페이지가 추가돼요.
+**\[복제]**&#xB97C; 누르면 바로 뒤에 같은 속지가 추가돼요.
 
 <figure><img src="../.gitbook/assets/noteshelf-add-page-03.png" alt="복제 버튼"><figcaption></figcaption></figure>
 {% endstep %}
