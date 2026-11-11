@@ -60,7 +60,7 @@ icon: note-sticky
 선택된 스티커를 **길게 누른 채** 노트 창으로 끌어다 놓으면 바로 붙어요.\
 붙인 뒤에는 크기와 위치를 자유롭게 조절할 수 있어요.
 
-<figure><img src="../.gitbook/assets/shot-notability-splitview-02.gif" alt="올가미로 선택한 스티커를 노트로 드래그"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-splitview-02-v2.gif" alt="올가미로 선택한 스티커를 노트로 드래그"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -83,7 +83,7 @@ PNG 이미지를 노트에 넣고 필요한 부분만 잘라 스티커처럼 사
 
 상단의 **\[+]** 미디어 버튼 → **\[사진]**&#xC744; 누르고, 저장해 둔 PNG 스티커를 선택해 주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-png-cut-01.png" alt="미디어 버튼 → 사진"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-png-cut-01-v2.png" alt="미디어 버튼 → 사진"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
