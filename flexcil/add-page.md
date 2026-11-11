@@ -3,7 +3,7 @@ description: 필요한 속지를 복사해 추가하는 방법입니다.
 icon: file-circle-plus
 ---
 
-# 페이지 추가하는 법
+# 속지 추가하는 법
 
 {% stepper %}
 {% step %}
@@ -16,9 +16,9 @@ icon: file-circle-plus
 {% endstep %}
 
 {% step %}
-#### 페이지 복사
+#### 속지 복사
 
-추가할 페이지를 선택하고 상단의 **\[복사]** 아이콘을 눌러주세요.
+추가할 속지를 선택하고 상단의 **\[복사]** 아이콘을 눌러주세요.
 
 <figure><img src="../.gitbook/assets/shot-flexcil-add-page-02.png" alt="페이지 선택 후 상단 복사 아이콘"><figcaption></figcaption></figure>
 {% endstep %}

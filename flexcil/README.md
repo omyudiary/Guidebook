@@ -29,4 +29,4 @@ description: 플랙슬에서 오뮤다이어리 노트를 사용하는 방법을
 
 ## 기능별 가이드
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>하이퍼링크 사용법</h4></td><td><a href="hyperlink.md">hyperlink.md</a></td></tr><tr><td><h4>스티커 사용법</h4></td><td><a href="sticker.md">sticker.md</a></td></tr><tr><td><h4>표지 변경하는 법</h4></td><td><a href="cover.md">cover.md</a></td></tr><tr><td><h4>페이지 추가하는 법</h4></td><td><a href="add-page.md">add-page.md</a></td></tr><tr><td><h4>노트팔레트 사용법</h4></td><td><a href="note-palette.md">note-palette.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>하이퍼링크 사용법</h4></td><td><a href="hyperlink.md">hyperlink.md</a></td></tr><tr><td><h4>스티커 사용법</h4></td><td><a href="sticker.md">sticker.md</a></td></tr><tr><td><h4>표지 변경하는 법</h4></td><td><a href="cover.md">cover.md</a></td></tr><tr><td><h4>속지 추가하는 법</h4></td><td><a href="add-page.md">add-page.md</a></td></tr><tr><td><h4>노트팔레트 사용법</h4></td><td><a href="note-palette.md">note-palette.md</a></td></tr></tbody></table>

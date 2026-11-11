@@ -1,5 +1,5 @@
 ---
-description: 목차와 탭을 눌러 원하는 페이지로 이동하는 방법입니다.
+description: 목차와 탭을 눌러 원하는 속지로 이동하는 방법입니다.
 icon: link
 ---
 
@@ -11,7 +11,7 @@ icon: link
 {% endhint %}
 
 노트쉘프는 **읽기 전용 모드에서 링크가 눌립니다.**\
-페이지를 이동할 때는 읽기 전용 모드를 켜고, 필기할 때는 다시 끕니다.
+속지를 이동할 때는 읽기 전용 모드를 켜고, 필기할 때는 다시 끕니다.
 
 {% stepper %}
 {% step %}
@@ -25,7 +25,7 @@ icon: link
 {% step %}
 #### 링크를 눌러 이동
 
-하이퍼링크 버튼이 있는 곳을 누르면 해당 페이지로 이동해요.
+하이퍼링크 버튼이 있는 곳을 누르면 해당 속지로 이동해요.
 
 <figure><img src="../.gitbook/assets/noteshelf-hyperlink-02.png" alt="탭을 눌러 페이지 이동"><figcaption></figcaption></figure>
 {% endstep %}
