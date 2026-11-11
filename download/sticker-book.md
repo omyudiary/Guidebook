@@ -12,7 +12,7 @@ description: 스티커북 파일을 저장하고 필기 앱으로 불러오는 �
 <table><thead><tr><th width="135.33331298828125">종류</th><th width="622.33349609375">설명</th></tr></thead><tbody><tr><td><strong>컷팅 스티커북</strong></td><td>스티커가 한 권 안에 모여 있는 앱 전용 파일(굿노트, 노타빌리티, 삼성노트만 가능)</td></tr><tr><td><strong>PNG 스티커</strong></td><td>스티커가 한 장씩 투명 배경 이미지로 된 파일(모든 필기 앱 사용 가능)</td></tr></tbody></table>
 
 {% tabs %}
-{% tab title="아이패드" %}
+{% tab title="아이패드" icon="apple" %}
 {% stepper %}
 {% step %}
 #### 다운로드 하기
@@ -44,7 +44,7 @@ description: 스티커북 파일을 저장하고 필기 앱으로 불러오는 �
 {% endstepper %}
 {% endtab %}
 
-{% tab title="갤럭시탭" %}
+{% tab title="갤럭시탭" icon="android" %}
 {% stepper %}
 {% step %}
 #### 다운로드 하기
