@@ -3,7 +3,7 @@ description: 원하는 속지를 바인더에 추가하는 방법입니다.
 icon: palette
 ---
 
-# 노트팔레트 사용하는 법
+# 노트팔레트 사용법
 
 {% hint style="warning" %}
 **노트팔레트(NOTE PALETTE)가 포함된 제품에만 해당됩니다.**\
