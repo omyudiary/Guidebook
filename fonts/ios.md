@@ -12,47 +12,74 @@ description: 오뮤다이어리 폰트를 아이폰·아이패드에 설치하�
 
 App Store에서 **iFont** 앱을 설치해 주세요.
 
-<figure><img src="../.gitbook/assets/font-ios-01.png" alt="App Store의 iFont"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-01.png" alt="App Store의 iFont"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 폰트 파일 준비
+#### 폰트 파일 다운로드
 
+오뮤다이어리 홈페이지의 **\[주문내역 조회]**&#xC5D0;서 구매한 폰트의 **\[다운로드]** 버튼을 눌러주세요.\
 다운로드한 **TTF 또는 OTF 파일**&#xC744; 확인해 주세요.
 
-<figure><img src="../.gitbook/assets/font-ios-02.png" alt="압축 해제된 폰트 파일"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-02.png" alt="주문내역의 다운로드 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 #### iFont로 보내기
 
-폰트 파일을 길게 누르고 **공유 → iFont**를 선택해 주세요.
+파일 앱에서 폰트 파일을 누르고, 우측 상단의 **\[⬆️]** 공유 버튼 → **\[iFont 아이콘]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/font-ios-03.png" alt="공유 메뉴의 iFont"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-03.png" alt="공유 메뉴의 iFont"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 설치 프로파일 받기
+#### INSTALL 누르기
 
-iFont의 **Imported Fonts** 목록에서 폰트 옆 **Install**을 누르고, 프로파일 다운로드를 **허용**해 주세요.
+iFont의 **Imported Fonts** 목록에서 불러온 폰트 옆 **\[INSTALL]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/font-ios-04.png" alt="iFont의 Install 버튼"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-04.png" alt="Imported Fonts의 INSTALL 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 설정에서 설치 완료
+#### 설치 안내 확인
 
-**설정 → 일반 → VPN 및 기기 관리**에서 받은 폰트 프로파일을 누르고 **설치**를 눌러주세요.
+설치 안내 창이 나오면 **\[Continue]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/font-ios-05.png" alt="설정의 프로파일 설치"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-05.png" alt="Install Your Fonts의 Continue"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 필기 앱에서 확인
+#### 프로파일 다운로드 허용
 
-필기 앱의 **텍스트 도구 → 글꼴** 목록에서 오뮤다이어리 폰트를 선택하면 끝이에요.
+구성 프로파일을 다운로드할지 묻는 창이 나오면 **\[허용]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/font-ios-06.png" alt="필기 앱 글꼴 목록"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-06.png" alt="프로파일 다운로드 허용"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+#### 설정 앱으로 이동
+
+설치 가이드 창에서 **\[Open Settings]**&#xB97C; 눌러 설정 앱으로 이동해 주세요.
+
+<figure><img src="../.gitbook/assets/shot-font-ios-07.png" alt="Font Installation Guide의 Open Settings"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+#### 설정에서 프로파일 설치
+
+설정의 **\[프로파일이 다운로드됨]**&#xC744; 누르거나, **설정 → 일반 → VPN 및 기기 관리**에서 받은 폰트 프로파일을 열어주세요.\
+오른쪽 위 **\[설치]**&#xB97C; 누르고 기기 암호를 입력한 뒤, 한 번 더 **\[설치]**&#xB97C; 눌러주세요.
+
+<figure><img src="../.gitbook/assets/shot-font-ios-08.png" alt="프로파일 설치 화면의 설치 버튼"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+#### 설치 완료
+
+iFont로 돌아와 완료 안내가 나오면 **\[Done]**&#xC744; 눌러주세요.\
+이제 굿노트·노타빌리티 같은 필기 앱의 **텍스트 도구 → 글꼴** 목록에서 폰트를 선택할 수 있어요.
+
+<figure><img src="../.gitbook/assets/shot-font-ios-09.png" alt="설치 완료 안내의 Done"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
