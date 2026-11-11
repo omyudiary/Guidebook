@@ -19,7 +19,7 @@ icon: note-sticky
 {% step %}
 #### 파일 앱을 옆 창으로 열기
 
-화면 아래를 살짝 쓸어 올려 **독(Dock)**&#xC744; 열고, **\[파일]** 앱 아이콘을 **길게 누른 채** 화면 오른쪽 끝으로 끌어다 놓아주세요.\
+화면 아래를 살짝 쓸어 올려 **독(Dock)**&#xC744; 열고, **\[파일]** 앱 아이콘을 **길게 누른 채** 화면 끝으로 끌어다 놓아주세요.\
 파일 앱이 노트와 나란히 열리면, 다운로드한 PNG 스티커 폴더를 열어주세요.
 
 <figure><img src="../.gitbook/assets/shot-flexcil-splitview-01.gif" alt="독에서 파일 앱을 화면 끝으로 끌어다 놓기"><figcaption></figcaption></figure>
@@ -61,7 +61,8 @@ icon: note-sticky
 #### 스티커 추가
 
 파일 앱과 플랙슬을 **화면 분할**로 나란히 열어주세요.\
-파일 앱에서 다운로드한 PNG 스티커를 **전체 선택**한 뒤, 새로 만든 스티커팩 안으로 끌어다 놓으면 한 번에 등록돼요.
+파일 앱에서 다운로드한 PNG 스티커를 **전체 선택**한 뒤,\
+스티커팩 안으로 끌어다 놓으면 한 번에 등록돼요.
 
 <figure><img src="../.gitbook/assets/shot-flexcil-sticker-02.gif" alt="파일 앱에서 스티커를 스티커팩으로 끌어다 놓기"><figcaption></figcaption></figure>
 {% endstep %}
