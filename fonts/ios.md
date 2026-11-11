@@ -21,7 +21,7 @@ App Store에서 **iFont** 앱을 설치해 주세요.
 오뮤다이어리 홈페이지의 **\[주문내역 조회]**&#xC5D0;서 구매한 폰트의 **\[다운로드]** 버튼을 눌러주세요.\
 다운로드한 **TTF 또는 OTF 파일**&#xC744; 확인해 주세요.
 
-<figure><img src="../.gitbook/assets/shot-font-ios-02.png" alt="주문내역의 다운로드 버튼"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-02-v2.png" alt="주문내역의 다운로드 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -29,7 +29,7 @@ App Store에서 **iFont** 앱을 설치해 주세요.
 
 파일 앱에서 폰트 파일을 누르고, 우측 상단의 **\[⬆️]** 공유 버튼 → **\[iFont 아이콘]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-font-ios-03.png" alt="공유 메뉴의 iFont"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-03-v2.png" alt="공유 메뉴의 iFont"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -37,7 +37,7 @@ App Store에서 **iFont** 앱을 설치해 주세요.
 
 iFont의 **Imported Fonts** 목록에서 불러온 폰트 옆 **\[INSTALL]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-font-ios-04.png" alt="Imported Fonts의 INSTALL 버튼"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-04-v2.png" alt="Imported Fonts의 INSTALL 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -53,7 +53,7 @@ iFont의 **Imported Fonts** 목록에서 불러온 폰트 옆 **\[INSTALL]**&#xC
 
 구성 프로파일을 다운로드할지 묻는 창이 나오면 **\[허용]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-font-ios-06.png" alt="프로파일 다운로드 허용"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-06-v2.png" alt="프로파일 다운로드 허용"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -70,7 +70,7 @@ iFont의 **Imported Fonts** 목록에서 불러온 폰트 옆 **\[INSTALL]**&#xC
 설정의 **\[프로파일이 다운로드됨]**&#xC744; 누르거나, **설정 → 일반 → VPN 및 기기 관리**에서 받은 폰트 프로파일을 열어주세요.\
 오른쪽 위 **\[설치]**&#xB97C; 누르고 기기 암호를 입력한 뒤, 한 번 더 **\[설치]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-font-ios-08.png" alt="프로파일 설치 화면의 설치 버튼"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-font-ios-08-v2.png" alt="프로파일 설치 화면의 설치 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
