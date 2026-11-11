@@ -11,7 +11,7 @@ icon: file-circle-plus
 
 오른쪽 위 **\[페이지]** 아이콘을 눌러 페이지 목록을 열어주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-add-page-01.png" alt="페이지 아이콘"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-add-page-01-v2.png" alt="페이지 아이콘"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -19,7 +19,7 @@ icon: file-circle-plus
 
 **\[...]**&#xC744; 누르고 추가할 속지를 선택한 뒤 **\[복사]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-add-page-02.png" alt="더보기 → 복사"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-add-page-02-v2.png" alt="더보기 → 복사"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -27,7 +27,7 @@ icon: file-circle-plus
 
 넣고 싶은 위치에 있는 **\[...]**&#xC744; 누르고 **\[붙이기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-add-page-03.png" alt="더보기 → 붙이기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-add-page-03-v2.png" alt="더보기 → 붙이기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

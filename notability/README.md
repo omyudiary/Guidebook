@@ -14,7 +14,7 @@ description: 노타빌리티에서 오뮤다이어리 노트를 사용하는 방
 
 노타빌리티 첫 화면(라이브러리)에서 **\[파일 불러오기]**&#xB97C; 누르고, 압축을 푼 PDF 파일을 선택해 주세요.
 
-<figure><img src="../.gitbook/assets/shot-notability-import-01.png" alt="첫 화면의 파일 불러오기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-notability-import-01-v2.png" alt="첫 화면의 파일 불러오기"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
