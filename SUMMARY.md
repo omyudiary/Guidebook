@@ -33,7 +33,7 @@
   * [표지 변경하는 법](notability/cover.md)
   * [페이지 추가하는 법](notability/add-page.md)
   * [노트팔레트 사용하는 법](notability/note-palette.md)
-* [🖊️ 노트쉘프 (Noteshelf 3)](noteshelf/README.md)
+* [🖊️ 노트쉘프 (Noteshelf)](noteshelf/README.md)
   * [하이퍼링크 사용법](noteshelf/hyperlink.md)
   * [스티커 사용법](noteshelf/sticker.md)
   * [표지 변경하는 법](noteshelf/cover.md)
