@@ -9,18 +9,17 @@ icon: android
 {% step %}
 #### 메일의 다운로드 링크 열기
 
-구매 후 받으신 메일을 열고 **\[Download Link]** 버튼을 눌러주세요.\
-**크롬** 또는 **삼성 인터넷**에서 열어주세요.
+구매 후 받으신 메일을 열고 **\[Download Link]** 버튼을 눌러주세요.
 
-<figure><img src="../../.gitbook/assets/dl-galaxy-01.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shot-dl-galaxy-01.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 #### 파일 다운로드
 
-원하는 파일을 누르고, 우측 상단의 **\[...]** 더보기 버튼을 누른 후, **\[다운로드]**&#xB97C; 눌러주세요.
+원하는 파일을 열고, 우측 상단의 **\[다운로드]** 버튼을 누른 후 **\[확인]**&#xC744; 눌러주세요.
 
-<figure><img src="../../.gitbook/assets/dl-galaxy-02.png" alt="다운로드 완료 알림"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shot-dl-galaxy-02.png" alt="우측 상단 다운로드 버튼 → 확인"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -28,18 +27,17 @@ icon: android
 
 내 파일 앱에서 **다운로드 완료한 파일**을 눌러주세요.\
 (zip 파일은 한 번 클릭하면 자동으로 압축이 해제됩니다)\
-우측 상단의 **\[...]** 더보기 버튼을 누른 후, **\[다른 앱에서 열기]**&#xB97C; 눌러주세요.
+**\[연결 프로그램]** 창이 뜨면 **\[삼성 노트]**&#xB97C; 눌러주세요.
 
-<figure><img src="../../.gitbook/assets/dl-galaxy-03.png" alt="내 파일 앱의 압축 풀기"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shot-dl-galaxy-03.png" alt="연결 프로그램 창의 삼성 노트"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 #### 필기 앱으로 열기
 
-사용 중인 **\[필기 앱 아이콘]**&#xC744; 눌러주세요.\
-삼성 노트의 경우 **\[노트에 추가]**&#xB97C; 꼭 눌러주세요.
+**\[노트에 추가]**&#xB97C; 눌러주세요.
 
-<figure><img src="../../.gitbook/assets/dl-galaxy-04.png" alt="연결 앱 목록에서 필기 앱 선택"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shot-dl-galaxy-04.png" alt="노트에 추가 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
