@@ -26,7 +26,6 @@
   * [표지 변경하는 법](samsung-notes/cover.md)
   * [속지 추가하는 법](samsung-notes/add-page.md)
   * [노트팔레트 사용법](samsung-notes/note-palette.md)
-  * [목록 아이콘이 안보일 때](samsung-notes/list-icon.md)
 * [✒️ 노타빌리티 (Notability)](notability/README.md)
   * [하이퍼링크 사용법](notability/hyperlink.md)
   * [스티커 사용법](notability/sticker.md)
