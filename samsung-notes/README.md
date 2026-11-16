@@ -14,7 +14,7 @@ description: 삼성노트에서 오뮤다이어리 노트를 사용하는 방법
 
 삼성노트 첫 화면 우측 상단의 **\[PDF+]** 버튼을 누르고, PDF 파일을 선택한 뒤 **\[완료]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-samsung-import-01.png" alt="PDF 선택 후 완료"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-samsung-import-01-v2.png" alt="PDF 선택 후 완료"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
