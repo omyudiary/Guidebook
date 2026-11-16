@@ -14,7 +14,7 @@ description: 구매한 디지털 파일을 기기에 저장하고 필기 앱으�
 
 구매 후 받으신 메일을 열고 **\[Download Link]** 버튼을 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-dl-ipad-01-v3.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-dl-galaxy-01-v2.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
