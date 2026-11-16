@@ -45,8 +45,3 @@ icon: image
 <figure><img src="../.gitbook/assets/shot-samsung-cover-04.png" alt="기존 표지 삭제"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-{% hint style="warning" %}
-노트와 표지 파일의 **방향(가로·세로)이 같아야** 삽입됩니다.\
-가로 노트에는 가로 표지, 세로 노트에는 세로 표지를 사용해 주시기 바랍니다.
-{% endhint %}
