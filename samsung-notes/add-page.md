@@ -9,7 +9,7 @@ icon: file-circle-plus
 {% step %}
 #### 속지 복사
 
-상단의 **\[목록]** 아이콘을 누르고, 추가할 속지의 **\[⋮]** → **\[복사]**&#xB97C; 눌러주세요.
+오른쪽 상단의 **\[목록]** 아이콘을 누르고, 추가할 속지의 **\[⋮]** → **\[복사]**&#xB97C; 눌러주세요.
 
 <figure><img src="../.gitbook/assets/shot-samsung-add-page-01.png" alt="⋮ → 복사"><figcaption></figcaption></figure>
 {% endstep %}

@@ -42,8 +42,6 @@ icon: image
 
 새 표지를 맨 앞으로 드래그하고, 기존 표지는 **\[⋮]** → **\[삭제]**&#xB97C; 눌러 지워주세요.
 
-<figure><img src="../.gitbook/assets/shot-samsung-cover-03.png" alt="새 표지를 맨 앞으로 이동"><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/shot-samsung-cover-04.png" alt="기존 표지 삭제"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

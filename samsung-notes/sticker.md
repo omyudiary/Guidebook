@@ -69,6 +69,8 @@ icon: note-sticky
 
 다 붙였다면 가운데 구분선을 **스티커북 쪽 화면 끝까지** 밀어주세요.\
 노트만 전체 화면으로 돌아와요.
+
+<figure><img src="../.gitbook/assets/shot-samsung-splitview-03.gif" alt="분할 화면 닫기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
