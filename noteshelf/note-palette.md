@@ -20,30 +20,26 @@ icon: palette
 
 {% stepper %}
 {% step %}
-#### 원하는 속지 찾기
+#### 원하는 속지로 이동
 
-**\[페이지 목록(사각형 4개 모양)]** 아이콘을 열고 노트팔레트의 원하는 속지를 찾아주세요.
+**읽기 전용 모드**에서 노트팔레트의 원하는 속지를 눌러 이동해 주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-note-palette-01.png" alt="노트팔레트에서 속지 선택"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-note-palette-01.png" alt="읽기 전용 모드에서 노트팔레트"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 속지 복제
+#### 속지 복사
 
-목록 위쪽의 **\[✓]** 체크 아이콘을 누르고 해당 속지를 선택한 뒤 **\[복제]**&#xB97C; 눌러주세요.
+왼쪽 위 **\[페이지 목록(사각형 4개 모양)]** 아이콘을 누르고, 복사할 속지의 **\[⌄]** → **\[복사]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-note-palette-02.png" alt="페이지 복제"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-note-palette-02.png" alt="⌄ → 복사"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 바인더로 옮기기
+#### 바인더에 붙여넣기
 
-복제된 속지를 **길게 눌러 드래그**해서 바인더의 원하는 위치로 옮겨주세요.
+원하는 바인더 위치로 이동한 뒤, 그 위치 앞 속지의 **\[⌄]** → **\[아래에 붙여넣기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-note-palette-03.png" alt="바인더 위치로 드래그"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-note-palette-03.png" alt="⌄ → 아래에 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-{% hint style="info" %}
-노트쉘프는 복사·붙여넣기 대신 **복제 후 드래그**로 위치를 옮깁니다.
-{% endhint %}

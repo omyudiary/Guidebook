@@ -10,19 +10,21 @@ description: 노트쉘프에서 오뮤다이어리 노트를 사용하는 방법
 
 {% stepper %}
 {% step %}
-#### 노트쉘프에서 가져오기
+#### 노트쉘프에서 불러오기
 
-노트쉘프 첫 화면에서 **\[+]** → **\[가져오기]**&#xB97C; 누르고, 압축을 푼 PDF 파일을 선택해 주세요.
+노트쉘프 첫 화면 오른쪽 위 **\[+ 신규]** → **\[가져오기]**&#xB97C; 누른 후, 다운로드 받은 PDF 파일을 선택하고 **\[열기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-import-01.png" alt="노트쉘프 가져오기 메뉴"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-import-01.png" alt="+ 신규 → 가져오기"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/shot-noteshelf-import-02.png" alt="PDF 선택 후 열기"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 다른 앱에서 바로 보내기
+#### 파일 앱에서 바로 보내기
 
-아이패드는 파일 앱의 **\[⬆️]** 공유 버튼, 갤럭시탭은 내 파일 앱의 **\[...]** → **\[다른 앱에서 열기]**&#xC5D0;서 **\[노트쉘프 아이콘]**&#xC744; 눌러주세요.
+파일 앱에서 PDF 파일을 누르고, 우측 상단의 **\[⬆️]** 공유 버튼 → **\[노트쉘프 아이콘]**&#xC744; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-import-02.png" alt="공유 메뉴의 노트쉘프"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-import-03.png" alt="공유 메뉴의 노트쉘프 아이콘"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
