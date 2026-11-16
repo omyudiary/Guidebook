@@ -17,9 +17,9 @@ icon: image
 {% step %}
 #### 표지 이미지 추가
 
-표지를 바꿀 노트에서 오른쪽 위 **\[+]** → **\[이미지에서 가져온 페이지]**&#xB97C; 누르고, 저장해 둔 표지 이미지를 선택해 주세요.
+표지를 바꿀 노트에서 오른쪽 위 **\[+]** → **\[파일 가져오기]**&#xB97C; 누르고, 저장해 둔 표지 이미지를 선택해 주세요.
 
-<figure><img src="../.gitbook/assets/shot-noteshelf-cover-01.png" alt="+ 버튼 → 이미지에서 가져온 페이지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-cover-01.png" alt="+ 버튼 → 파일 가져오기"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
