@@ -74,7 +74,7 @@ description: 스티커북 파일을 저장하고 필기 앱으로 불러오는 �
 폴더 안에서 사용 중인 **\[필기 앱 이름]**&#xC774; 적힌 파일을 눌러주세요.\
 사용 중인 필기 앱이 없으면 **\[PNG]** 폴더를 사용해 주세요. (자세한 내용은 스티커 사용법 참고)
 
-<figure><img src="../.gitbook/assets/shot-sb-galaxy-03.png" alt="필기 앱 이름이 적힌 파일"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-sb-galaxy-03-v2.png" alt="필기 앱 이름이 적힌 파일"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 {% endtab %}
