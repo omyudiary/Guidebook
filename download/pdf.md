@@ -61,7 +61,7 @@ zip 파일이 아니라면 저장하지 않고 사용 중인 필기 앱으로 �
 
 구매 후 받으신 메일을 열고 **\[Download Link]** 버튼을 눌러주세요.
 
-<figure><img src="../.gitbook/assets/shot-dl-galaxy-01.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-dl-galaxy-01-v2.png" alt="메일의 Download Link 버튼"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
