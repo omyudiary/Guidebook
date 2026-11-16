@@ -10,16 +10,16 @@ icon: link
 노트쉘프 1(이전 버전)은 메뉴 위치와 아이콘 모양이 다를 수 있습니다.
 {% endhint %}
 
-노트쉘프는 **읽기 전용 모드에서 링크가 눌립니다.**\
-속지를 이동할 때는 읽기 전용 모드를 켜고, 필기할 때는 다시 끕니다.
+노트쉘프는 **읽기 전용 모드**에서 링크를 눌러 속지를 이동합니다.
 
 {% stepper %}
 {% step %}
 #### 읽기 전용 모드 켜기
 
-상단 도구 막대의 **\[읽기 전용 모드]** 아이콘을 눌러주세요.
+상단 도구 막대의 **\[읽기 전용 모드]** 아이콘을 눌러주세요.\
+화면에 **읽기 전용 모드** 안내가 나오면 켜진 상태예요.
 
-<figure><img src="../.gitbook/assets/noteshelf-hyperlink-01.png" alt="읽기 전용 모드 아이콘"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-hyperlink-01.png" alt="도구 막대의 읽기 전용 모드 아이콘"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -27,14 +27,14 @@ icon: link
 
 하이퍼링크 버튼이 있는 곳을 누르면 해당 속지로 이동해요.
 
-<figure><img src="../.gitbook/assets/noteshelf-hyperlink-02.png" alt="탭을 눌러 페이지 이동"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-hyperlink-02.gif" alt="탭을 눌러 속지 이동"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 다시 필기하기
+#### 도구 막대 옮기기
 
-필기할 때는 **\[읽기 전용 모드]** 아이콘을 한 번 더 눌러 꺼주세요.
+도구 막대가 탭을 가린다면 도구 막대를 **길게 누른 채** 원하는 위치로 끌어다 놓아주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-hyperlink-03.png" alt="읽기 전용 모드 끄기"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-hyperlink-03.gif" alt="도구 막대를 다른 위치로 옮기기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

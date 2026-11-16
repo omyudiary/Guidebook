@@ -14,24 +14,24 @@ icon: file-circle-plus
 {% step %}
 #### 페이지 목록 열기
 
-**\[페이지 목록(사각형 4개 모양)]** 아이콘을 눌러주세요.
+왼쪽 위 **\[페이지 목록(사각형 4개 모양)]** 아이콘을 눌러주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-add-page-01.png" alt="페이지 목록 아이콘(사각형 4개)"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-add-page-01.png" alt="페이지 목록 아이콘"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 속지 선택
+#### 속지 복사
 
-목록 위쪽의 **\[✓]** 체크 아이콘을 누르고, 추가할 속지를 선택해 주세요.
+추가할 속지의 **\[⌄]** → **\[복사]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-add-page-02.png" alt="체크 아이콘으로 페이지 선택"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-add-page-02.png" alt="⌄ → 복사"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 복제
+#### 붙여넣기
 
-**\[복제]**&#xB97C; 누르면 바로 뒤에 같은 속지가 추가돼요.
+넣고 싶은 위치 앞 속지의 **\[⌄]** → **\[아래에 붙여넣기]**&#xB97C; 눌러주세요.
 
-<figure><img src="../.gitbook/assets/noteshelf-add-page-03.png" alt="복제 버튼"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shot-noteshelf-add-page-03.png" alt="⌄ → 아래에 붙여넣기"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
